@@ -10,11 +10,11 @@ authors:
 - Elizabeth Murnane
 - Emma Brunskill
 - James A. Landay
-date: "2019-01-01T00:00:00Z"
+date: "2019-05-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2019-01-01T00:00:00Z"
+publishDate: ""
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -33,6 +33,7 @@ summary:
 
 tags:
 - HCI
+
 featured: false
 
 links:
@@ -43,7 +44,7 @@ url_pdf: https://dl.acm.org/doi/pdf/10.1145/3290605.3300587
 #  url_dataset: '#'
 #  url_poster: '#'
 #  url_project: ''
-url_slides: ''
+url_slides: 'pdf/QuizBot.pdf'
 #  url_source: '#'
 url_video: 'https://www.youtube.com/embed/xL6_CTiD2DU'
 
