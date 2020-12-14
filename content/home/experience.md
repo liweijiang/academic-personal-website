@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Experience
+title: Experiences
 subtitle:
 
 # Date format for experience
@@ -22,24 +22,37 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Ph.D. Student
+    company: Paul G. Allen School Computer Science & Engineering, University of Washington
     company_url: ''
-    location: California
-    date_start: '2017-01-01'
+    location: Seattle, Washington
+    date_start: '2019-09-01'
     date_end: ''
-    description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor
-    company: University X
+    description:
+
+  - title: Graduate Research Intern
+    company: Allen Institute for Artificial Intelligence (AI2)
     company_url: ''
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Seattle, Washington
+    date_start: '2020-06-01'
+    date_end: '2020-09-01'
+    description:
+
+  - title: Undergraduate Research Intern
+    company: Stanford University
+    company_url: ''
+    location: Stanford, California
+    date_start: '2017-06-01'
+    date_end: '2019-09-01'
+    description:
+    #Undergraduate research intern at Stanford HCI group working on the Smart Primer project
+    #I was fortunate to be supervised by Professor James Landay and worked with graduate mentor Sherry Ruan.
+
+  - title: Visit Student Researcher
+    company: The Future Laboratory, Tsinghua University
+    company_url: ''
+    location: Beijing, China
+    date_start: '2019-07-01'
+    date_end: '2019-09-01'
+    description:
 ---
