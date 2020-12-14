@@ -16,6 +16,8 @@ doi: ""
 # Schedule page publish date (NOT publication's date).
 publishDate: ""
 
+
+
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
@@ -33,20 +35,27 @@ summary:
 
 tags:
 - HCI
+- 2019
 
 featured: false
+reading_time: false  # Show estimated reading time?
+share: false  # Show social sharing links?
+profile: false  # Show author profile?
+comments: false  # Show comments?
+
 
 links:
-# - name: Custom Link
-#  url: https://dl.acm.org
+- name: Press
+  url: https://news.stanford.edu/2019/05/08/learning-chatbot-teaches-beats-flashcards/
 url_pdf: https://dl.acm.org/doi/pdf/10.1145/3290605.3300587
 #  url_code: '#'
 #  url_dataset: '#'
 #  url_poster: '#'
 #  url_project: ''
 url_slides: 'pdf/QuizBot.pdf'
-#  url_source: '#'
+#url_source: ''
 url_video: 'https://www.youtube.com/embed/xL6_CTiD2DU'
+
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
