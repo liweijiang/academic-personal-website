@@ -14,7 +14,7 @@ baseurl = "https://liweijiang.me/"
 
 # Enter a copyright notice to display in the site footer.
 # To display a copyright symbol, type `&copy;`. For current year, type `{year}`.
-copyright = "Copyright &copy; {year} Liwei Jiang"
+copyright = "Copyright &copy; {year} Liwei Jiang | Last Updated December 2020"
 
 ############################
 ## Advanced options below ##
