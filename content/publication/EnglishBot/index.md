@@ -1,13 +1,21 @@
 ---
 title: "EnglishBot: An AI-Powered Chatbot for Second Language Learning"
 authors:
-- admin\*
-- Sherry Ruan\*
+- admin
+- Sherry Ruan*
+- Qianyao Xu
+- Glenn M. Davis
+- Zhiyuan Liu
+- Emma Brunskill
+- James A. Landay
+author_notes:
+- "Equal Contribution"
+- "Equal Contribution"
 date: "2021-04-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: ""
+publishDate: "2020-04-01T00:00:00Z"
 
 
 # Publication type.
@@ -36,7 +44,7 @@ profile: false  # Show author profile?
 comments: false  # Show comments?
 
 
-#links:
+links:
 #- name: Press
 #  url: https://news.stanford.edu/2019/05/08/learning-chatbot-teaches-beats-flashcards/
 #url_pdf: https://dl.acm.org/doi/pdf/10.1145/3290605.3300587
