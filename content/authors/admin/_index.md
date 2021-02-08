@@ -72,9 +72,12 @@ highlight_name: true
 
 I am a Ph.D. student at [Paul G. Allen School of Computer Science & Engineering, University of Washington](https://www.cs.washington.edu), advised by Professor [Yejin Choi](https://homes.cs.washington.edu/~yejin/). I earned B.A. in Computer Science and B.A. in Mathematics from [Colby College](http://www.colby.edu). During my undergraduate studies, I worked on [Smart Primer](https://hci.stanford.edu/research/smartprimer/) at [Stanford University HCI group](https://hci.stanford.edu).
 
-My primary field of study is **natural language processing (NLP)**, currently focusing on commonsense reasoning, connotative language understanding, and conversational applications for social good such as education and healthcare.
+My primary field of study is **natural language processing (NLP)**, currently focusing on commonsense knowledge reasoning, connotative language understanding, and conversational applications for social good, such as education and healthcare.
 
-My long-term research goal bifurcates in two directions: leveraging computational methods to understand phenomena in the world in meaningful and interesting ways and applying advanced AI technologies to boost social good and justice.
+My long-term research goal is threefold: computationally investigating meaningful and interesting phenomena in the world, systematically modeling world knowledge and human cognitions and behaviors through an interdisciplinary lense, and applying AI advances to boost positive social impact.
+
+<!-- My long-term research goal bifurcates in two directions: leveraging computational methods to understand and model phenomena in the world in meaningful and interesting ways and applying advanced AI technologies to boost positive impact. -->
+<!-- to boost social good and justice. -->
 
 <!-- Previously, I worked on Human-computer Interaction (HCI) in the education and healthcare fields. -->
 
