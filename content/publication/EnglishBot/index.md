@@ -1,5 +1,5 @@
 ---
-title: "EnglishBot: An AI-Powered Chatbot for Second Language Learning"
+title: "EnglishBot: A Conversational AI System for Second Language Learning"
 authors:
 - Sherry Ruan*
 - admin*
