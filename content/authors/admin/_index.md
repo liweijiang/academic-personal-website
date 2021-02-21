@@ -27,7 +27,7 @@ education:
   courses:
   - course: Ph.D. in Computer Science
     institution: University of Washington
-    year: 2024 (expected)
+    year: 2025 (expected)
   - course: B.A. in Computer Science (Summa Cum Laude)
     institution: Colby College
     year: 2019
@@ -74,7 +74,9 @@ I am a Ph.D. student at [Paul G. Allen School of Computer Science & Engineering,
 
 My primary field of study is **natural language processing (NLP)**, currently focusing on commonsense knowledge reasoning, connotative language understanding, and conversational applications for social good, such as education and healthcare.
 
-My long-term research goal is threefold: computationally investigating meaningful and interesting phenomena in the world, systematically modeling world knowledge and human cognitions and behaviors through an interdisciplinary lense, and applying AI advances to boost positive social impact.
+My **long-term research goal** is threefold: computationally investigating meaningful & interesting phenomena in the world, innovatively bridging language, human cognitions & behaviors and world knowledge through an interdisciplinary lense, and applying AI advances to boost positive social impact.
+
+> *I'm evermore thankful for the generosity of people who mentored me in the past and at present. Thus, I've reserved 1 hour per week to provide feedback on PhD applicantions in my relevant field from **underrepresented communities**. Feel free to contact me via email.*
 
 <!-- My long-term research goal bifurcates in two directions: leveraging computational methods to understand and model phenomena in the world in meaningful and interesting ways and applying advanced AI technologies to boost positive impact. -->
 <!-- to boost social good and justice. -->

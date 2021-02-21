@@ -24,7 +24,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: Proceedings of the Sixth (2019) ACM Conference on Learning @ Scale
-publication_short: L@S
+publication_short: L@S WIP
 
 abstract: Digitization of education has brought a tremendous amount of online materials that are potentially useful for language learners to practice their reading skills. However, these digital materials rarely help with conversational practice, a key component of foreign language learning. Leveraging recent advances in chatbot technologies, we developed BookBuddy, a scalable virtual reading companion that can turn any reading material into an interactive conversation-based English lesson. We piloted our virtual tutor with five 6-year-old native Chinese-speaking children currently learning English. Preliminary results suggest that children enjoyed speaking English with our virtual tutoring chatbot and were highly engaged during the interaction.
 
