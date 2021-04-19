@@ -55,7 +55,7 @@ links:
 #  url_project: ''
 #url_slides: 'pdf/QuizBot.pdf'
 #url_source: ''
-#url_video: 'https://www.youtube.com/embed/xL6_CTiD2DU'
+url_video: 'https://www.youtube.com/watch?v=2y0Rr6CW-fI'
 
 
 # Featured image
