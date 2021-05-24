@@ -46,9 +46,10 @@ links:
 url_pdf: https://arxiv.org/abs/2104.06511
 #  url_code: '#'
 #  url_dataset: '#'
-url_poster: 'pdf/ANION.pdf'
+# url_poster: 'pdf/ANION.pdf'
+url_slides: 'pdf/ANION.pdf'
 #  url_project: ''
-url_slides: 'key/ANION.key'
+# url_slides: 'key/ANION.key'
 #url_source: ''
 #url_video: 'https://www.youtube.com/embed/xL6_CTiD2DU'
 
