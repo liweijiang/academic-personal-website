@@ -11,7 +11,7 @@ date: "2021-05-24T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-04-01T00:00:00Z"
+publishDate: "2020-05-24T00:00:00Z"
 
 
 # Publication type.
@@ -41,7 +41,8 @@ comments: false  # Show comments?
 
 
 links:
-url_pdf: https://arxiv.org/abs/2104.06511
+# https://arxiv.org/abs/2104.06511
+url_pdf: https://www.aclweb.org/anthology/2021.naacl-main.346/
 url_slides: pdf/ANION.pdf
 #- name: Press
 #  url: https://news.stanford.edu/2019/05/08/learning-chatbot-teaches-beats-flashcards/
