@@ -2,16 +2,16 @@
 title: "Symbolic Knowledge Distillation: from General Language Models to Commonsense Models"
 authors:
 - Peter West
-- Chandra Bhagavatula*
-- Jack Hessel*
-- Jena D. Hwang*
-- admin*
-- Ronan Le Bras *
-- Ximing Lu*
-- Sean Welleck*
+- Chandra Bhagavatula
+- Jack Hessel
+- Jena D. Hwang
+- admin
+- Ronan Le Bras
+- Ximing Lu
+- Sean Welleck
 - Yejin Choi
 author_notes:
-- 
+- ""
 - "Equal Contribution"
 - "Equal Contribution"
 - "Equal Contribution"
@@ -19,7 +19,7 @@ author_notes:
 - "Equal Contribution"
 - "Equal Contribution"
 - "Equal Contribution"
-- 
+- ""
 
 date: "2021-05-24T00:00:00Z"
 doi: ""
