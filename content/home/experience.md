@@ -35,7 +35,8 @@ experience:
     company_url: ''
     location: Seattle, Washington
     date_start: '2020-06-01'
-    date_end: '2020-09-01'
+    date_end: ''
+      # '2020-09-01'
     description:
 
   - title: Undergraduate Research Intern
