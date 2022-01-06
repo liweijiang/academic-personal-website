@@ -6,7 +6,7 @@ title: Liwei Jiang
 superuser: true
 
 # Role/position/tagline
-role: Second-year Ph.D. Student
+role: Ph.D. Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -71,12 +71,23 @@ highlight_name: true
 ---
 
 I am a Ph.D. student at [Paul G. Allen School of Computer Science & Engineering, University of Washington](https://www.cs.washington.edu), advised by Professor [Yejin Choi](https://homes.cs.washington.edu/~yejin/). I earned B.A. in Computer Science and B.A. in Mathematics from [Colby College](http://www.colby.edu). During my undergraduate studies, I worked on [Smart Primer](https://hci.stanford.edu/research/smartprimer/) at [Stanford University HCI group](https://hci.stanford.edu).
-
+<!-- 
 My primary field of study is **natural language processing (NLP)**, currently focusing on commonsense knowledge reasoning, connotative language understanding, and conversational applications for social good, such as education and healthcare.
 
-My **long-term research goal** is threefold: computationally investigating meaningful & interesting phenomena in the world, innovatively bridging language, human cognitions & behaviors and world knowledge through an interdisciplinary lense, and applying AI advances to boost positive social impact.
+My **long-term research goal** is threefold: computationally investigating meaningful & interesting phenomena in the world, innovatively bridging language, human cognitions & behaviors and world knowledge through an interdisciplinary lense, and applying AI advances to boost positive social impact. -->
 
-> *I'm evermore thankful for the generosity of people who mentored me in the past and at present. Thus, I've reserved 1 hour per week to provide feedback on PhD applicantions in my relevant field from **underrepresented communities**. Feel free to contact me via email.*
+
+My primary field of study is **natural language processing (NLP)**, spanning topics such as machine ethics, commonsense reasoning, connotative language understanding, conversational applications for social good.
+
+I'm aspired to uncover meaningful, trustworthy and interesting applications of language and multimodal information. Previously, I worked on **human-computer interaction (HCI)** so I'm also passionate about bringing human factors and interdisciplinary angles into play for my research.
+
+<!-- commonsense knowledge reasoning, connotative language understanding, and conversational applications for social good, such as education and healthcare. -->
+
+My **long-term research goal** is threefold: computationally investigating meaningful & interesting phenomena in the world, innovatively bridging language, human cognitions & behaviors and world knowledge through an interdisciplinary lense, and advancing AI to boost positive social impact.
+
+> *I'm evermore thankful to people who have mentored me in the past and at present. Thus, for undergrads who are interested in my work and want to take a stab at research, feel free to reach out to me.*
+
+<!-- I've reserved 1 hour per week to provide feedback on PhD applicantions in my relevant field from **underrepresented communities**. Feel free to contact me via email.* -->
 
 <!-- My long-term research goal bifurcates in two directions: leveraging computational methods to understand and model phenomena in the world in meaningful and interesting ways and applying advanced AI technologies to boost positive impact. -->
 <!-- to boost social good and justice. -->
