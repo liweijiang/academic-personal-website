@@ -1,24 +1,16 @@
 ---
-title: "Symbolic Knowledge Distillation: from General Language Models to Commonsense Models"
+title: "Aligning to Normative Values in Morally Informed Game Environments"
 authors:
-- Peter West
-- Chandra Bhagavatula
-- Jack Hessel
-- Jena D. Hwang
-- admin
-- Ronan Le Bras
-- Ximing Lu
-- Sean Welleck
+- Prithviraj Ammanabrolu
+- Liwei Jiang
+- Maarten Sap
+- Hanna Hajishirzi
 - Yejin Choi
 author_notes:
 - ""
-- "Equal Contribution"
-- "Equal Contribution"
-- "Equal Contribution"
-- "Equal Contribution"
-- "Equal Contribution"
-- "Equal Contribution"
-- "Equal Contribution"
+- ""
+- ""
+- ""
 - ""
 
 date: "2021-05-24T00:00:00Z"
@@ -38,7 +30,10 @@ publication_types: ["1"]
 publication: 2022 Annual Conference of the North American Chapter of the Association for Computational Linguistics
 publication_short: NAACL-HLT
 
-abstract: "The common practice for training commonsense models has gone from-human-to-corpus-to-machine: humans author commonsense knowledge graphs in order to train commonsense models. In this work, we investigate an alternative, from-machine-to-corpus-to-machine: general language models author these commonsense knowledge graphs to train commonsense models. Our study leads to a new framework, Symbolic Knowledge Distillation. As with prior art in Knowledge Distillation (Hinton et al., 2015), our approach uses larger models to teach smaller models. A key difference is that we distill knowledge symbolically-as text-in addition to the neural model. We also distill only one aspect-the commonsense of a general language model teacher, allowing the student to be a different type, a commonsense model. Altogether, we show that careful prompt engineering and a separately trained critic model allow us to selectively distill high-quality causal commonsense from GPT-3, a general language model. Empirical results demonstrate that, for the first time, a human-authored commonsense knowledge graph is surpassed by our automatically distilled variant in all three criteria: quantity, quality, and diversity. In addition, it results in a neural commonsense model that surpasses the teacher model's commonsense capabilities despite its 100x smaller size. We apply this to the ATOMIC resource, and share our new symbolic knowledge graph and commonsense models."
+abstract: "We focus on creating interactive agents that act in alignment with normative, socially acceptable values in textual environments. Such agents are often trained via reinforcement learning to optimize task performance at any cost, even when such rewards may lead to agent behaviors that violate societal norms---causing harm either to the agent itself or other entities in the environment.
+Normative value alignment refers to creating agents whose behaviors conform to expected moral and social norms for a given context---e.g. agents that are more likely to pursue non-harmful behaviors. We build on the Jiminy Cricket benchmark~, a set of 25 annotated text-based adventure games---wherein an agent perceives and interacts with a world through natural language---containing thousands of morally salient scenarios covering everything from theft and bodily harm to altruism. 
+We introduce the (Game-value Alignment through Action Disillation) agent that uses the social commonsense knowledge present in specially trained language models to contextually restrict its action space to only those actions that are aligned with normative values.
+An experimental study shows that the \oursys{} agent makes decisions efficiently enough to improve state-of-the-art task performance by 4% while reducing the frequency of non-normative behaviors by 25% compared to strong contemporary value alignment approaches. "
 
 # Summary. An optional shortened abstract.
 summary:
@@ -56,7 +51,7 @@ comments: false  # Show comments?
 
 links:
 # https://arxiv.org/abs/2104.06511
-url_pdf: "https://arxiv.org/abs/2110.07178"
+# url_pdf: "https://arxiv.org/abs/2110.07178"
 # url_slides: pdf/ANION.pdf
 #- name: Press
 #  url: https://news.stanford.edu/2019/05/08/learning-chatbot-teaches-beats-flashcards/

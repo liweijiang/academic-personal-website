@@ -39,8 +39,8 @@ publishDate: "2020-05-24T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: arXiv
-# publication_short: NAACL-HLT
+publication: 2022 Annual Conference of the North American Chapter of the Association for Computational Linguistics
+publication_short: NAACL-HLT
 
 abstract: "The dominant paradigm for neural text generation is left-to-right decoding from autoregressive language models. Constrained or controllable generation under complex lexical constraints, however, requires foresight to plan ahead feasible future paths. 
 Drawing inspiration from the A* search algorithm, we propose NeuroLogic A*esque, a decoding algorithm that incorporates heuristic estimates of future cost. We develop efficient lookahead heuristics that are efficient for large-scale language models, making our method a drop-in replacement for common techniques such as beam search and top-k sampling. To enable constrained generation, we build on NeuroLogic decoding (Lu et al., 2021), combining its flexibility in incorporating logical constraints with A*esque estimates of future constraint satisfaction. 
@@ -51,7 +51,7 @@ summary:
 
 tags:
 - NLP
-- 2021
+- 2022
 
 featured: false
 reading_time: false  # Show estimated reading time?
