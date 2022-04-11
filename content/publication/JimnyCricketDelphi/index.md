@@ -1,5 +1,5 @@
 ---
-title: "Aligning to Normative Values in Morally Informed Game Environments"
+title: "Aligning to Social Norms and Values in Interactive Text Games"
 authors:
 - Prithviraj Ammanabrolu
 - admin
