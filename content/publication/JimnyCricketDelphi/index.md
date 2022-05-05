@@ -1,5 +1,5 @@
 ---
-title: "Aligning to Social Norms and Values in Interactive Text Games"
+title: "Aligning to Social Norms and Values in Interactive Narratives"
 authors:
 - Prithviraj Ammanabrolu
 - admin
@@ -43,8 +43,8 @@ comments: false  # Show comments?
 
 links:
 # https://arxiv.org/abs/2104.06511
-url_pdf: "https://arxiv.org/abs/2110.07178"
-# url_slides: pdf/ANION.pdf
+url_pdf: "https://arxiv.org/abs/2205.01975"
+# url_slides: pdf/ANION.pdfliwei
 #- name: Press
 #  url: https://news.stanford.edu/2019/05/08/learning-chatbot-teaches-beats-flashcards/
 #  url_code: '#'
