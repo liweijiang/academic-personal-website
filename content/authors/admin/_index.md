@@ -77,15 +77,24 @@ My primary field of study is **natural language processing (NLP)**, currently fo
 My **long-term research goal** is threefold: computationally investigating meaningful & interesting phenomena in the world, innovatively bridging language, human cognitions & behaviors and world knowledge through an interdisciplinary lense, and applying AI advances to boost positive social impact. -->
 
 
-My primary field of study is **natural language processing (NLP)**, spanning topics such as machine ethics, commonsense reasoning, connotative language understanding, conversational applications for social good.
+<!-- My primary field of study is **natural language processing (NLP)**, spanning topics such as machine ethics, commonsense reasoning, connotative language understanding, conversational applications for social good. -->
 
-I'm aspired to uncover meaningful, trustworthy and interesting applications of language and multimodal information. Previously, I worked on **human-computer interaction (HCI)** so I'm also passionate about bringing human factors and interdisciplinary angles into play for my research.
+<!-- I'm aspired to uncover meaningful, trustworthy and interesting applications of language and multimodal information. Previously, I worked on **human-computer interaction (HCI)** so I'm also passionate about bringing human factors and interdisciplinary angles into play for my research. -->
+
+My primary fields of study are **natural language processing (NLP)** and **artificial intelligence (AI)**, with broad interests in machine ethics, commonsense reasoning, applications for social good.
+
+I aspire to explore computational approaches and models building on knowledge in language and multimodal forms for trustworthy, meaningful, and prosocial applications. Previously, I worked on **human-computer interaction (HCI)**, so I'm also passionate about bringing human factors and interdisciplinary angles into play for my research.
 
 <!-- commonsense knowledge reasoning, connotative language understanding, and conversational applications for social good, such as education and healthcare. -->
 
-My **long-term research goal** is threefold: computationally investigating meaningful & interesting phenomena in the world, innovatively bridging language, human cognitions & behaviors and world knowledge through an interdisciplinary lense, and advancing AI to boost positive social impact.
+<!-- My **long-term research goal** is threefold: computationally investigating meaningful & interesting phenomena in the world, innovatively bridging language, human cognitions & behaviors and world knowledge through an interdisciplinary lense, and advancing AI applications to boost positive social impact. -->
 
-> *I'm evermore thankful to people who have mentored me in the past and at present. Thus, for undergrads who are interested in my work and want to take a stab at research, feel free to reach out to me.*
+My **long-term research goal** is threefold: computationally investigating meaningful & interesting phenomena in the world, building models that bridge language and multimodal information, human cognitions & behaviors and world knowledge through an interdisciplinary lense, and advancing AI applications to boost positive social impact.
+
+<!-- > *I'm evermore thankful to people who have mentored me in the past and at present. Thus, for undergrads who are interested in my work and want to take a stab at research, feel free to reach out to me.* -->
+
+> *I'm forever thankful to people who have mentored me in the past and at present. Thus, for undergrads interested in my work and who want to take a stab at research, feel free to reach out to me.*
+
 
 <!-- I've reserved 1 hour per week to provide feedback on PhD applicantions in my relevant field from **underrepresented communities**. Feel free to contact me via email.* -->
 
