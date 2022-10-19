@@ -34,7 +34,9 @@ publishDate: "2020-05-24T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: arXiv
+# publication: arXiv
+publication: Conference on Empirical Methods in Natural Language Processing
+publication_short: EMNLP
 # publication_short: NAACL-HLT
 
 abstract: "Most existing dialogue systems fail to respond properly to potentially unsafe user utterances by either ignoring or passively agreeing with them. To address this issue, we introduce ProsocialDialog, the first large-scale multi-turn dialogue dataset to teach conversational agents to respond to problematic content following social norms. Covering diverse unethical, problematic, biased, and toxic situations, ProsocialDialog contains responses that encourage prosocial behavior, grounded in commonsense social rules (i.e., rules-of-thumb, RoTs). Created via a human-AI collaborative framework, ProsocialDialog consists of 58K dialogues, with 331K utterances, 160K RoTs, and 497K dialogue safety labels accompanied by free-form rationales. With this dataset, we introduce a dialogue safety detection module, Canary, capable of generating RoTs given conversational context, and a socially-informed dialogue agent, Prost. Empirical results show that Prost generates more socially acceptable dialogues compared to other state-of-the-art language and dialogue models in both in-domain and out-of-domain settings. Additionally, Canary effectively guides conversational agents and off-the-shelf language models to generate significantly more prosocial responses. Our work highlights the promise and importance of creating and steering conversational AI to be socially responsible."
@@ -44,7 +46,7 @@ summary:
 
 tags:
 - NLP
-- 2021
+- 2022
 
 featured: false
 reading_time: false  # Show estimated reading time?
