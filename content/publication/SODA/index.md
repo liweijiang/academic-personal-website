@@ -1,5 +1,5 @@
 ---
-title: "Symbolic Knowledge Distillation: from General Language Models to Commonsense Models"
+title: "SODA"
 authors:
 - Peter West
 - Chandra Bhagavatula
