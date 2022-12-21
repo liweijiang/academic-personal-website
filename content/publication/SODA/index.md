@@ -1,13 +1,17 @@
 ---
-title: "Reinforced Clarification Question Generation with Defeasibility Rewards for Disambiguating Social and Moral Situations"
+title: "SODA: Million-scale Dialogue Distillation with Social Commonsense Contextualization"
 authors:
-- Valentina Pyatkin
-- Jena D. Hwang
-- Vivek Srikumar
-- Ximing Lu
+- Hyunwoo Kim
+- Jack Hessel
 - Liwei Jiang
+- Ximing Lu
+- Youngjae Yu
+- Pei Zhou
+- Ronan Le Bras
+- Malihe Alikhani
+- Gunhee Kim
+- Maarten Sap
 - Yejin Choi
-- Chandra Bhagavatula
 # author_notes:
 
 
@@ -28,7 +32,7 @@ publication_types: ["1"]
 publication: arXiv
 publication_short: arXiv
 
-abstract: "Context is vital for commonsense moral reasoning. 'Lying to a friend' is wrong if it is meant to deceive them, but may be morally okay if it is intended to protect them. Such nuanced but salient contextual information can potentially flip the moral judgment of an action. Thus, we present ClarifyDelphi, an interactive system that elicits missing contexts of a moral situation by generating clarification questions such as 'Why did you lie to your friend?'. Our approach is inspired by the observation that questions whose potential answers lead to diverging moral judgments are the most informative. We learn to generate questions using Reinforcement Learning, by maximizing the divergence between moral judgements of hypothetical answers to a question. Human evaluation shows that our system generates more relevant, informative and defeasible questions compared to other question generation baselines. ClarifyDelphi assists informed moral reasoning processes by seeking additional morally consequential context to disambiguate social and moral situations."
+abstract: "We present SODA: the first publicly available, million-scale high-quality social dialogue dataset. Using SODA, we train COSMO: a generalizable conversation agent outperforming previous best-performing agents on both in- and out-of-domain datasets. In contrast to most existing crowdsourced, small-scale dialogue corpora, we distill 1.5M socially-grounded dialogues from a pre-trained language model (InstructGPT; Ouyang et al., 2022). Dialogues are distilled by contextualizing social commonsense knowledge from a knowledge graph (Atomic10x; West et al., 2022). Human evaluation shows that dialogues in SODA are more consistent, specific, and (surprisingly) natural than prior human-authored datasets - e.g., DailyDialog (Li et al., 2017), BlendedSkillTalk (Smith et al., 2020). In addition, extensive evaluations show that COSMO is significantly more natural and consistent on unseen datasets than best-performing dialogue models - e.g., GODEL (Peng et al., 2022), BlenderBot (Roller et al., 2021), DialoGPT (Zhang et al., 2020). Furthermore, it is sometimes even preferred to the original human-written gold responses. We make our data, models, and code public."
 
 # Summary. An optional shortened abstract.
 summary:
@@ -44,10 +48,9 @@ profile: false  # Show author profile?
 comments: false  # Show comments?
 
 
-
 links:
 # https://arxiv.org/abs/2104.06511
-url_pdf: "https://arxiv.org/abs/2212.10409"
+url_pdf: "https://arxiv.org/abs/2212.10465"
 # url_slides: pdf/ANION.pdf
 #- name: Press
 #  url: https://news.stanford.edu/2019/05/08/learning-chatbot-teaches-beats-flashcards/
