@@ -1,31 +1,24 @@
 ---
-title: "SODA"
+title: "SODA: Million-scale Dialogue Distillation with Social Commonsense Contextualization"
 authors:
-- Peter West
-- Chandra Bhagavatula
+- Hyunwoo Kim
 - Jack Hessel
-- Jena D. Hwang
-- admin
-- Ronan Le Bras
+- Liwei Jiang
 - Ximing Lu
-- Sean Welleck
+- Youngjae Yu
+- Pei Zhou
+- Ronan Le Bras
+- Malihe Alikhani
+- Gunhee Kim
+- Maarten Sap
 - Yejin Choi
 author_notes:
-- ""
-- "Equal Contribution"
-- "Equal Contribution"
-- "Equal Contribution"
-- "Equal Contribution"
-- "Equal Contribution"
-- "Equal Contribution"
-- "Equal Contribution"
-- ""
 
-date: "2022-02-24T00:00:00Z"
+date: "2023-02-24T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2022-02-24T00:00:00Z"
+publishDate: "2023-02-24T00:00:00Z"
 
 
 # Publication type.
@@ -35,17 +28,20 @@ publishDate: "2022-02-24T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: 2022 Annual Conference of the North American Chapter of the Association for Computational Linguistics
-publication_short: NAACL-HLT
+# publication: 2022 Annual Conference of the North American Chapter of the Association for Computational Linguistics
+# publication_short: NAACL-HLT
+publication: arXiv
 
-abstract: "The common practice for training commonsense models has gone from-human-to-corpus-to-machine: humans author commonsense knowledge graphs in order to train commonsense models. In this work, we investigate an alternative, from-machine-to-corpus-to-machine: general language models author these commonsense knowledge graphs to train commonsense models. Our study leads to a new framework, Symbolic Knowledge Distillation. As with prior art in Knowledge Distillation (Hinton et al., 2015), our approach uses larger models to teach smaller models. A key difference is that we distill knowledge symbolically-as text-in addition to the neural model. We also distill only one aspect-the commonsense of a general language model teacher, allowing the student to be a different type, a commonsense model. Altogether, we show that careful prompt engineering and a separately trained critic model allow us to selectively distill high-quality causal commonsense from GPT-3, a general language model. Empirical results demonstrate that, for the first time, a human-authored commonsense knowledge graph is surpassed by our automatically distilled variant in all three criteria: quantity, quality, and diversity. In addition, it results in a neural commonsense model that surpasses the teacher model's commonsense capabilities despite its 100x smaller size. We apply this to the ATOMIC resource, and share our new symbolic knowledge graph and commonsense models."
+abstract: "We present SODA: the first publicly available, million-scale high-quality social dialogue dataset. Using SODA, we train COSMO: a generalizable conversation agent outperforming previous best-performing agents on both in- and out-of-domain datasets. 
+In contrast to most existing crowdsourced, small-scale dialogue corpora, we distill 1.5M socially-grounded dialogues from a pre-trained language model (InstructGPT; Ouyang et al., 2022). Dialogues are distilled by contextualizing social commonsense knowledge from a knowledge graph (Atomic10x; West et al., 2022). Human evaluation shows that dialogues in SODA are more consistent, specific, and (surprisingly) natural than prior human-authored datasets - e.g., DailyDialog (Li et al., 2017), BlendedSkillTalk (Smith et al., 2020). 
+In addition, extensive evaluations show that COSMO is significantly more natural and consistent on unseen datasets than best-performing dialogue models - e.g., GODEL (Peng et al., 2022), BlenderBot (Roller et al., 2021), DialoGPT (Zhang et al., 2020). Furthermore, it is sometimes even preferred to the original human-written gold responses. We make our data, models, and code public."
 
 # Summary. An optional shortened abstract.
 summary:
 
 tags:
 - NLP
-- 2022
+- 2023
 
 featured: false
 reading_time: false  # Show estimated reading time?
@@ -56,7 +52,7 @@ comments: false  # Show comments?
 
 links:
 # https://arxiv.org/abs/2104.06511
-url_pdf: "https://arxiv.org/abs/2110.07178"
+url_pdf: "https://arxiv.org/abs/2212.10465"
 # url_slides: pdf/ANION.pdf
 #- name: Press
 #  url: https://news.stanford.edu/2019/05/08/learning-chatbot-teaches-beats-flashcards/
