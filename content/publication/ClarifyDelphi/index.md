@@ -1,17 +1,13 @@
 ---
 title: "SODA: Million-scale Dialogue Distillation with Social Commonsense Contextualization"
 authors:
-- Hyunwoo Kim
-- Jack Hessel
-- admin
+- Valentina Pyatkin
+- Jena D. Hwang
+- Vivek Srikumar
 - Ximing Lu
-- Youngjae Yu
-- Pei Zhou
-- Ronan Le Bras
-- Malihe Alikhani
-- Gunhee Kim
-- Maarten Sap
+- admin
 - Yejin Choi
+- Chandra Bhagavatula
 author_notes:
 
 date: "2023-02-24T00:00:00Z"
@@ -32,9 +28,10 @@ publication_types: ["1"]
 # publication_short: NAACL-HLT
 publication: arXiv
 
-abstract: "We present SODA: the first publicly available, million-scale high-quality social dialogue dataset. Using SODA, we train COSMO: a generalizable conversation agent outperforming previous best-performing agents on both in- and out-of-domain datasets. 
-In contrast to most existing crowdsourced, small-scale dialogue corpora, we distill 1.5M socially-grounded dialogues from a pre-trained language model (InstructGPT; Ouyang et al., 2022). Dialogues are distilled by contextualizing social commonsense knowledge from a knowledge graph (Atomic10x; West et al., 2022). Human evaluation shows that dialogues in SODA are more consistent, specific, and (surprisingly) natural than prior human-authored datasets - e.g., DailyDialog (Li et al., 2017), BlendedSkillTalk (Smith et al., 2020). 
-In addition, extensive evaluations show that COSMO is significantly more natural and consistent on unseen datasets than best-performing dialogue models - e.g., GODEL (Peng et al., 2022), BlenderBot (Roller et al., 2021), DialoGPT (Zhang et al., 2020). Furthermore, it is sometimes even preferred to the original human-written gold responses. We make our data, models, and code public."
+abstract: "Context is everything, even in commonsense moral reasoning. Changing contexts can flip the moral judgment of an action; Lying to a friend is wrong in general, but may be morally acceptable if it is intended to protect their life.
+We present ClarifyDelphi, an interactive system that learns to ask clarification questions (e.g., why did you lie to your friend?) in order to elicit additional salient contexts of a social or moral situation.   
+We posit that questions whose potential answers lead to diverging moral judgments are the most informative. Thus, we propose a reinforcement learning framework with defeasibility rewards that aims to maximize the divergence between moral judgments of hypothetical answers to a question. Human evaluation demonstrates that our system generates more {relevant}, {informative} and {defeasible} questions compared to competitive baselines. 
+Our work is ultimately inspired by studies in cognitive science that have investigated the flexibility in moral cognition (i.e., the diverse contexts in which moral rules can be bent), and we hope that research in this direction can assist both cognitive and computational investigations of moral judgments. "
 
 # Summary. An optional shortened abstract.
 summary:
@@ -52,7 +49,7 @@ comments: false  # Show comments?
 
 links:
 # https://arxiv.org/abs/2104.06511
-url_pdf: "https://arxiv.org/abs/2212.10465"
+url_pdf: "https://arxiv.org/abs/2212.10409"
 # url_slides: pdf/ANION.pdf
 #- name: Press
 #  url: https://news.stanford.edu/2019/05/08/learning-chatbot-teaches-beats-flashcards/
