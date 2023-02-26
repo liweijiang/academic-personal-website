@@ -41,6 +41,7 @@ summary:
 
 tags:
 - NLP
+- long paper
 - 2023
 
 featured: false

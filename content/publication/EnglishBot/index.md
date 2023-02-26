@@ -36,6 +36,7 @@ summary:
 
 tags:
 - HCI
+- long paper
 - 2021
 
 featured: false

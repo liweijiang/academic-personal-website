@@ -33,6 +33,7 @@ summary:
 
 tags:
 - HCI
+- workshop paper
 - 2019
 
 featured: false

@@ -31,6 +31,7 @@ summary:
 
 tags:
 - NLP
+- long paper
 - 2021
 
 featured: false

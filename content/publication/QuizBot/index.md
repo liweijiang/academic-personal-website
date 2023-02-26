@@ -35,6 +35,7 @@ summary:
 
 tags:
 - HCI
+- long paper
 - 2019
 
 featured: false
