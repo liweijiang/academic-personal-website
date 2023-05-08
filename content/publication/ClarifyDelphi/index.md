@@ -25,8 +25,8 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 # publication: 2022 Annual Conference of the North American Chapter of the Association for Computational Linguistics
-# publication_short: NAACL-HLT
-publication: arXiv
+publication_short: ACL
+publication: 2023 Annual Conference of the North American Chapter of the Association for Computational Linguistics
 
 abstract: "Context is everything, even in commonsense moral reasoning. Changing contexts can flip the moral judgment of an action; Lying to a friend is wrong in general, but may be morally acceptable if it is intended to protect their life.
 We present ClarifyDelphi, an interactive system that learns to ask clarification questions (e.g., why did you lie to your friend?) in order to elicit additional salient contexts of a social or moral situation.   

@@ -1,23 +1,28 @@
 ---
-title: "Delphi: Towards Machine Ethics and Norms"
+title: "Can Machines Learn Morality? The Delphi Experiment"
 authors:
 - admin
-- Jena D. Hwang 
-- Chandra Bhagavatula 
+- Jena D. Hwang
+- Chandra Bhagavatula
 - Ronan Le Bras
-- Maxwell Forbes 
-- Jon Borchardt 
-- Jenny Liang 
-- Oren Etzioni 
-- Maarten Sap 
+- Jenny Liang
+- Jesse Dodge
+- Keisuke Sakaguchi
+- Maxwell Forbes
+- Jon Borchardt
+- Saadia Gabriel
+- Yulia Tsvetkov
+- Oren Etzioni
+- Maarten Sap
+- Regina Rini
 - Yejin Choi
 <!-- author_notes: -->
 
-date: "2021-05-24T00:00:00Z"
+date: "2022-05-24T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-05-24T00:00:00Z"
+publishDate: "2022-05-24T00:00:00Z"
 
 
 # Publication type.
@@ -30,7 +35,9 @@ publication_types: ["1"]
 publication: arXiv
 # publication_short: NAACL-HLT
 
-abstract: "What would it take to teach a machine to behave ethically? While broad ethical rules may seem straightforward to state (\"thou shalt not kill\"), applying such rules to real-world situations is far more complex. For example, while \"helping a friend\" is generally a good thing to do, \"helping a friend spread fake news\" is not. We identify four underlying challenges towards machine ethics and norms: (1) an understanding of moral precepts and social norms; (2) the ability to perceive real-world situations visually or by reading natural language descriptions; (3) commonsense reasoning to anticipate the outcome of alternative actions in different contexts; (4) most importantly, the ability to make ethical judgments given the interplay between competing values and their grounding in different contexts (e.g., the right to freedom of expression vs. preventing the spread of fake news). Our paper begins to address these questions within the deep learning paradigm. Our prototype model, Delphi, demonstrates strong promise of language-based commonsense moral reasoning, with up to 92.1% accuracy vetted by humans. This is in stark contrast to the zero-shot performance of GPT-3 of 52.3%, which suggests that massive scale alone does not endow pre-trained neural language models with human values. Thus, we present Commonsense Norm Bank, a moral textbook customized for machines, which compiles 1.7M examples of people's ethical judgments on a broad spectrum of everyday situations. In addition to the new resources and baseline performances for future research, our study provides new insights that lead to several important open research questions: differentiating between universal human values and personal values, modeling different moral frameworks, and explainable, consistent approaches to machine ethics."
+abstract: "As AI systems become increasingly powerful and pervasive, there are growing concerns about machines' morality or a lack thereof. Yet, teaching morality to machines is a formidable task, as morality remains among the most intensely debated questions in humanity, let alone for AI. Existing AI systems deployed to millions of users, however, are already making decisions loaded with moral implications, which poses a seemingly impossible challenge: teaching machines moral sense, while humanity continues to grapple with it.
+To explore this challenge, we introduce Delphi, an experimental framework based on deep neural networks trained directly to reason about descriptive ethical judgments, e.g., \"helping a friend\" is generally good, while \"helping a friend spread fake news\" is not. Empirical results shed novel insights on the promises and limits of machine ethics; Delphi demonstrates strong generalization capabilities in the face of novel ethical situations, while off-the-shelf neural network models exhibit markedly poor judgment including unjust biases, confirming the need for explicitly teaching machines moral sense.
+Yet, Delphi is not perfect, exhibiting susceptibility to pervasive biases and inconsistencies. Despite that, we demonstrate positive use cases of imperfect Delphi, including using it as a component model within other imperfect AI systems. Importantly, we interpret the operationalization of Delphi in light of prominent ethical theories, which leads us to important future research questions."
 
 # Summary. An optional shortened abstract.
 summary:
@@ -38,7 +45,7 @@ summary:
 tags:
 - NLP
 - long paper
-- 2021
+- 2022
 
 featured: false
 reading_time: false  # Show estimated reading time?
@@ -51,12 +58,12 @@ links:
 - name: Demo
   url: https://delphi.allenai.org
 url_pdf: "https://arxiv.org/abs/2110.07574"
+url_code: "https://github.com/liweijiang/delphi"
+url_dataset: "https://docs.google.com/forms/d/e/1FAIpQLSfk47SwWW4pUay4TMSFO7IaG2vxwpbUPI-TJIZwhwdBDNGqoQ/viewform"
 
 # url_slides: pdf/ANION.pdf
 #- name: Press
 #  url: https://news.stanford.edu/2019/05/08/learning-chatbot-teaches-beats-flashcards/
- # url_code: '#'
- # url_dataset: '#'
 # url_poster: 'pdf/ANION.pdf'
 #  url_project: ''
 # url_slides: 'key/ANION.key'
