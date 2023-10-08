@@ -1,17 +1,21 @@
 ---
-title: "''I'm Not Mad'': Commonsense Implications of  Negation and Contradiction"
+title: "Reading Books is Great, But Not if You Are Driving! Visually Grounded Reasoning about Defeasible Commonsense Norms"
 authors:
+- Seungju Han
+- Junhyeok Kim
+- Jack Hessel
 - admin
-- Antoine Bosselut 
-- Chandra Bhagavatula
+- Jiwan Chung
+- Yejin Son
 - Yejin Choi
+- Youngjae Yu
 author_notes:
 
-date: "2021-05-24T00:00:00Z"
+date: "2023-02-24T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-05-24T00:00:00Z"
+publishDate: "2023-02-24T00:00:00Z"
 
 
 # Publication type.
@@ -21,10 +25,12 @@ publishDate: "2020-05-24T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: 2021 Annual Conference of the North American Chapter of the Association for Computational Linguistics
-publication_short: NAACL-HLT
+# publication: 2022 Annual Conference of the North American Chapter of the Association for Computational Linguistics
+# publication_short: NAACL-HLT
+publication: EMNLP
 
-abstract: Natural language inference requires reasoning about contradictions, negations, and their commonsense implications. Given a simple premise (e.g., "I'm mad at you"), humans can reason about the varying shades of contradictory statements ranging from straightforward negations ("I'm not mad at you") to commonsense contradictions ("I'm happy"). Moreover, these negated or contradictory statements shift the commonsense implications of the original premise in interesting and nontrivial ways. For example, while "I'm mad" implies "I'm unhappy about something," negating the premise does not necessarily negate the corresponding commonsense implications. In this paper, we present the first comprehensive study focusing on commonsense implications of negated statements and contradictions. We introduce ANION, a new commonsense knowledge graph with 624K if-then rules focusing on negated and contradictory events. We then present joint generative and discriminative inference models for this new resource, providing novel empirical insights on how logical negations and commonsense contradictions reshape the commonsense implications of their original premises. 
+abstract: "Commonsense norms are defeasible by context: reading books is usually great, but not when driving a car. While contexts can be explicitly described in language, in embodied scenarios, contexts are often provided visually. This type of visually grounded reasoning about defeasible commonsense norms is generally easy for humans, but (as we show) poses a challenge for machines, as it necessitates both visual understanding and reasoning about commonsense norms.
+We construct a new multimodal benchmark for studying commonsense norms: NormLens. NormLens consists of 10K human judgments accompanied by free-form explanations covering 2K multimodal situations, and serves as a probe to address two questions: (1) to what extent can models align with average human judgment? and (2) how well can models explain their predicted judgments? We find that state-of-the-art model judgments and explanations are not well-aligned with human annotation. Additionally, we present a simple yet effective approach to better align models with humans by distilling social commonsense knowledge from large language models. The data and code will be released."
 
 # Summary. An optional shortened abstract.
 summary:
@@ -32,7 +38,7 @@ summary:
 tags:
 - NLP
 - long paper
-- 2021
+- 2023
 
 featured: false
 reading_time: false  # Show estimated reading time?
@@ -43,17 +49,15 @@ comments: false  # Show comments?
 
 links:
 # https://arxiv.org/abs/2104.06511
-- name: Data
-  url: https://github.com/liweijiang/anion
-url_pdf: https://www.aclweb.org/anthology/2021.naacl-main.346/
+# url_pdf: "https://arxiv.org/abs/2212.10465"
 # url_slides: pdf/ANION.pdf
 #- name: Press
 #  url: https://news.stanford.edu/2019/05/08/learning-chatbot-teaches-beats-flashcards/
 #  url_code: '#'
 #  url_dataset: '#'
-url_poster: 'pdf/ANION.pdf'
+# url_poster: 'pdf/ANION.pdf'
 #  url_project: ''
-url_slides: 'key/ANION.key'
+# url_slides: 'key/ANION.key'
 #url_source: ''
 #url_video: 'https://www.youtube.com/embed/xL6_CTiD2DU'
 

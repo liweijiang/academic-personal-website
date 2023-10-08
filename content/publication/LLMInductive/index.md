@@ -1,39 +1,21 @@
 ---
-title: "Faith and Fate: Limits of Transformers on Compositionality"
+title: "Phenomenal Yet Puzzling: Testing Inductive Reasoning Capabilities of Language Models with Hypothesis Refinement"
 authors:
-- Nouha Dziri1
-- Ximing Lu
-- Melanie Sclar
-- Xiang Lorraine Li
+- Linlu Qiu
 - admin
-- Bill Yuchen Lin
-- Peter West
+- Ximing lu
+- Melanie Sclar
+- Valentina Pyatkin
 - Chandra Bhagavatula
-- Ronan Le Bras
-- Jena D. Hwang
-- Soumya Sanyal
-- Sean Welleck
-- Xiang Ren
-- Allyson Ettinger
-- Zaid Harchaoui
+- Bailin Wang
+- Yoon Kim
 - Yejin Choi
+- Nouha Dziri
+- Xiang Ren
 author_notes:
-- "Co-first-author"
-- "Co-first-author"
-- "Co-first-author"
-- "Co-second-author"
-- "Co-second-author"
-- ""
-- ""
-- ""
-- ""
-- ""
-- ""
-- ""
-- ""
-- ""
-- ""
-- ""
+
+
+
 date: "2023-02-24T00:00:00Z"
 doi: ""
 
@@ -52,7 +34,7 @@ publication_types: ["1"]
 # publication_short: NAACL-HLT
 publication: arXiv
 
-abstract: "Transformer large language models (LLMs) have sparked admiration for their exceptional performance on tasks that demand intricate multi-step reasoning. Yet, these models simultaneously show failures on surprisingly trivial problems. This begs the question: Are these errors incidental, or do they signal more substantial limitations? In an attempt to demystify Transformers, we investigate the limits of these models across three representative compositional tasks---multi-digit multiplication, logic grid puzzles, and a classic dynamic programming problem. These tasks require breaking problems down into sub-steps and synthesizing these steps into a precise answer. We formulate compositional tasks as computation graphs to systematically quantify the level of complexity, and break down reasoning steps into intermediate sub-procedures. Our empirical findings suggest that Transformers solve compositional tasks by reducing multi-step compositional reasoning into linearized subgraph matching, without necessarily developing systematic problem-solving skills. To round off our empirical study, we provide theoretical arguments on abstract multi-step reasoning problems that highlight how Transformers' performance will rapidly decay  with increased task complexity."
+abstract: "The ability to derive  underlying principles from a handful of observations and then generalize to novel situations---known as inductive reasoning---is central to human intelligence. Prior work suggests that language models (LMs) often fall short on inductive reasoning, despite achieving impressive success on research benchmarks. In this work, we conduct a systematic study of  the inductive reasoning capabilities of LMs through iterative hypothesis refinement, a technique that more closely mirrors  the human inductive process than standard input-output prompting. Iterative hypothesis refinement employs a three-step process: proposing, selecting, and refining hypotheses in the form of textual rules. By examining the intermediate rules, we observe that LMs are phenomenal hypothesis proposers (i.e., generating candidate rules), and when coupled with a (task-specific) symbolic interpreter that is able to systematically filter the proposed set of rules, this hybrid approach achieves strong results across inductive reasoning benchmarks that require inducing causal relations, language-like instructions, and symbolic concepts. However, they also behave as puzzling inductive reasoners, showing notable performance gaps in rule induction (i.e., identifying plausible rules) and rule application (i.e., applying proposed rules to instances), suggesting that LMs are proposing hypotheses without being able to actually apply the rules. Through  empirical and human analyses, we further reveal several discrepancies between the inductive reasoning processes of LMs and humans, shedding light on both the potentials and limitations of using LMs in inductive reasoning tasks."
 
 # Summary. An optional shortened abstract.
 summary:

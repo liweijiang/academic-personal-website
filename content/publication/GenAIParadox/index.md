@@ -1,12 +1,38 @@
 ---
-title: "BiasX: \"Thinking Slow\" in Toxic Content Moderation with Explanations of Implied Social Biases"
+title: "THE GENERATIVE AI PARADOX: \"What It Can Create, It May Not Understand\""
 authors:
-- Yiming Zhang
-- Sravani Nanduri
+- Peter West
+- Ximing Lu
+- Nouha Dziri
+- Faeze Brahman
+- Linjie Li
+- Jena D. Hwang
 - admin
-- Tongshuang Wu
-- Maarten Sap
+- Jillian Fisher
+- Abhilasha Ravichander
+- Khyathi Chandu
+- Benjamin Newman
+- Pang Wei Koh
+- Allyson Ettinger
+- Yejin Choi
 author_notes:
+- "Co-first-author"
+- "Co-first-author"
+- "Co-first-author"
+- "Co-first-author"
+- "Co-first-author"
+- ""
+- ""
+- ""
+- ""
+- ""
+- ""
+- ""
+- ""
+- ""
+- ""
+- ""
+
 
 date: "2023-02-24T00:00:00Z"
 doi: ""
@@ -24,16 +50,16 @@ publication_types: ["1"]
 # Publication name and optional abbreviated publication name.
 # publication: 2022 Annual Conference of the North American Chapter of the Association for Computational Linguistics
 # publication_short: NAACL-HLT
-publication: EMNLP
+publication: arXiv
 
-abstract: "Toxicity annotators and content moderators often default to mental shortcuts when making decisions. This can lead to subtle toxicity being missed, and seemingly toxic but harmless content being over-detected. We introduce BiasX, a framework that enhances content moderation setups with free-text explanations of statements' implied social biases, and explore its effectiveness through a large-scale crowdsourced user study. We show that indeed, participants substantially benefit from explanations for correctly identifying subtly (non-)toxic content. The quality of explanations is critical: imperfect machine-generated explanations (+2.4% on hard toxic examples) help less compared to expert-written human explanations (+7.2%). Our results showcase the promise of using free-text explanations to encourage more thoughtful toxicity moderation."
+abstract: "The recent wave of generative AI has sparked unprecedented global attention, with both excitement and concern over potentially superhuman levels of artificial intelligence: models now take only seconds to produce outputs that would challenge or exceed the capabilities even of expert humans. At the same time, models still show basic errors in understanding that would not be expected even in non-expert humans. This presents us with an apparent paradox: how do we reconcile seemingly superhuman capabilities with the persistence of errors that few humans would make? In this work, we posit that this tension reflects a divergence in the configuration of intelligence in today's generative models relative to intelligence in humans. Specifically, we propose and test the Generative AI Paradox hypothesis: generative models, having been trained directly to reproduce expert-like outputs, acquire generative capabilities that are not contingent upon---and can therefore exceed---their ability to understand those same types of outputs. This contrasts with humans, for whom basic understanding almost always precedes the ability to generate expert-level outputs. We test this hypothesis through controlled experiments analyzing generation vs.~understanding in generative models, across both language and image modalities. Our results show that although models can outperform humans in generation, they consistently fall short of human capabilities in measures of understanding, as well as weaker correlation between generation and understanding performance, and more brittleness to adversarial inputs. Our findings support the hypothesis that models' generative capability may not be contingent upon understanding capability, and call for caution in interpreting artificial intelligence by analogy to human intelligence."
 
 # Summary. An optional shortened abstract.
 summary:
 
 tags:
 - NLP
-- short paper
+- long paper
 - 2023
 
 featured: false
@@ -45,7 +71,7 @@ comments: false  # Show comments?
 
 links:
 # https://arxiv.org/abs/2104.06511
-url_pdf: "https://arxiv.org/abs/2305.13589"
+# url_pdf: "https://arxiv.org/abs/2212.10465"
 # url_slides: pdf/ANION.pdf
 #- name: Press
 #  url: https://news.stanford.edu/2019/05/08/learning-chatbot-teaches-beats-flashcards/

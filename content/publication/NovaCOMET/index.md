@@ -1,17 +1,24 @@
 ---
-title: "''I'm Not Mad'': Commonsense Implications of  Negation and Contradiction"
+title: "NovaCOMET: Open Commonsense Foundation Models with Symbolic Knowledge Distillation"
 authors:
+- Peter West
+- Ronan Le Bras
+- Taylor Sorensen
+- Bill Yuchen Lin
 - admin
-- Antoine Bosselut 
+- Ximing Lu
+- Khyathi Chandu
+- Jack Hessel
+- Ashutosh Baheti
 - Chandra Bhagavatula
 - Yejin Choi
 author_notes:
 
-date: "2021-05-24T00:00:00Z"
+date: "2023-02-24T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-05-24T00:00:00Z"
+publishDate: "2023-02-24T00:00:00Z"
 
 
 # Publication type.
@@ -21,10 +28,11 @@ publishDate: "2020-05-24T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: 2021 Annual Conference of the North American Chapter of the Association for Computational Linguistics
-publication_short: NAACL-HLT
+# publication: 2022 Annual Conference of the North American Chapter of the Association for Computational Linguistics
+# publication_short: NAACL-HLT
+publication: Findings of EMNLP
 
-abstract: Natural language inference requires reasoning about contradictions, negations, and their commonsense implications. Given a simple premise (e.g., "I'm mad at you"), humans can reason about the varying shades of contradictory statements ranging from straightforward negations ("I'm not mad at you") to commonsense contradictions ("I'm happy"). Moreover, these negated or contradictory statements shift the commonsense implications of the original premise in interesting and nontrivial ways. For example, while "I'm mad" implies "I'm unhappy about something," negating the premise does not necessarily negate the corresponding commonsense implications. In this paper, we present the first comprehensive study focusing on commonsense implications of negated statements and contradictions. We introduce ANION, a new commonsense knowledge graph with 624K if-then rules focusing on negated and contradictory events. We then present joint generative and discriminative inference models for this new resource, providing novel empirical insights on how logical negations and commonsense contradictions reshape the commonsense implications of their original premises. 
+abstract: "We present NovaCOMET, an open commonsense knowledge model, that combines the best aspects of knowledge and general task models. Compared to previous knowledge models, NovaCOMET allows open-format relations enabling direct application to reasoning tasks; compared to general task models like Flan-T5, it explicitly centers knowledge, enabling superior performance for commonsense reasoning. NovaCOMET leverages the knowledge of opaque proprietary models to create an open knowledge pipeline. First, knowledge is symbolically distilled into NovAtomic, a publicly-released discrete knowledge graph which can be audited, critiqued, and filtered.  Next, we train NovaCOMET on NovAtomic by fine-tuning an open-source pretrained model.  NovaCOMET uses an open-format training objective, replacing the fixed relation sets of past knowledge models, enabling arbitrary structures within the data to serve as inputs or outputs. The resulting generation model, optionally augmented with human annotation, matches or exceeds comparable open task models like Flan-T5 on a range of commonsense generation tasks. NovaCOMET serves as a counterexample to the contemporary focus on instruction tuning only, demonstrating a distinct advantage to explicitly modeling commonsense knowledge as well. "
 
 # Summary. An optional shortened abstract.
 summary:
@@ -32,7 +40,7 @@ summary:
 tags:
 - NLP
 - long paper
-- 2021
+- 2023
 
 featured: false
 reading_time: false  # Show estimated reading time?
@@ -43,17 +51,15 @@ comments: false  # Show comments?
 
 links:
 # https://arxiv.org/abs/2104.06511
-- name: Data
-  url: https://github.com/liweijiang/anion
-url_pdf: https://www.aclweb.org/anthology/2021.naacl-main.346/
+# url_pdf: "https://arxiv.org/abs/2212.10465"
 # url_slides: pdf/ANION.pdf
 #- name: Press
 #  url: https://news.stanford.edu/2019/05/08/learning-chatbot-teaches-beats-flashcards/
 #  url_code: '#'
 #  url_dataset: '#'
-url_poster: 'pdf/ANION.pdf'
+# url_poster: 'pdf/ANION.pdf'
 #  url_project: ''
-url_slides: 'key/ANION.key'
+# url_slides: 'key/ANION.key'
 #url_source: ''
 #url_video: 'https://www.youtube.com/embed/xL6_CTiD2DU'
 
