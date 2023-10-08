@@ -2,7 +2,7 @@
 title: "Value Kaleidoscope: Engaging AI with Pluralistic Human Values, Rights, and Duties"
 authors:
 - Taylor Sorensen
-- Liwei Jiang
+- admin
 - Jena Hwang
 - Sydney Levine
 - Valentina Pyatkin

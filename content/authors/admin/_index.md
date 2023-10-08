@@ -18,8 +18,9 @@ organizations:
 
 # Interests to show in About widget
 interests:
-- Natural Language Processing
 - Artificial Intelligence
+- Natural Language Processing
+- Machine Learning
 - Human-computer Interaction
 
 # Education to show in About widget
@@ -27,7 +28,7 @@ education:
   courses:
   - course: Ph.D. in Computer Science
     institution: University of Washington
-    year: 2025 (expected)
+    year: 2026 (expected)
   - course: B.A. in Computer Science (Summa Cum Laude)
     institution: Colby College
     year: 2019
@@ -81,15 +82,25 @@ My **long-term research goal** is threefold: computationally investigating meani
 
 <!-- I'm aspired to uncover meaningful, trustworthy and interesting applications of language and multimodal information. Previously, I worked on **human-computer interaction (HCI)** so I'm also passionate about bringing human factors and interdisciplinary angles into play for my research. -->
 
-My primary fields of study are **natural language processing (NLP)** and **artificial intelligence (AI)**, with broad interests in machine ethics, commonsense reasoning, applications for social good.
+<!-- , with broad interests in machine ethics, commonsense reasoning, applications for social good. -->
 
-I aspire to explore computational approaches and models building on knowledge in language and multimodal forms for trustworthy, meaningful, and prosocial applications. Previously, I worked on **human-computer interaction (HCI)**, so I'm also passionate about bringing human factors and interdisciplinary angles into play for my research.
+My primary fields of study are **artificial intelligence (AI)** and **natural language processing (NLP)**. I'm intrigued to make wild imaginations come true by building AI & understand the charms, mysteries, and peculiarities of humans. Thus, my current research focuses on the **co-evolution of AI and humanity**: how to build better AI by taking inspiration from humans and how to understand humans better by developing better AI.
+
+<!-- I aspire to explore computational approaches and models building on knowledge in language and multimodal forms for trustworthy, meaningful, and prosocial applications. Previously, I worked on **human-computer interaction (HCI)**, so I'm also passionate about bringing human factors and interdisciplinary angles into play for my research. -->
+<!-- I aspire to explore computational approaches and models building on knowledge in language and multimodal forms for trustworthy, meaningful, and prosocial applications. Previously, I worked on **human-computer interaction (HCI)**, so I'm also passionate about bringing human factors and interdisciplinary angles into play for my research. -->
+
 
 <!-- commonsense knowledge reasoning, connotative language understanding, and conversational applications for social good, such as education and healthcare. -->
 
 <!-- My **long-term research goal** is threefold: computationally investigating meaningful & interesting phenomena in the world, innovatively bridging language, human cognitions & behaviors and world knowledge through an interdisciplinary lense, and advancing AI applications to boost positive social impact. -->
 
-My **long-term research goal** is threefold: computationally investigating meaningful & interesting phenomena in the world, building models that bridge language and multimodal information, human cognitions & behaviors and world knowledge through an interdisciplinary lense, and advancing AI applications to boost positive social impact.
+<!-- My **long-term research goal** is threefold: (1) computationally investigating meaningful & interesting phenomena in the world, (2) building models that bridge language and multimodal information, human cognitions & behaviors and world knowledge through an interdisciplinary lense, and advancing AI applications to boost positive social impact. -->
+
+My **long-term research goal** is threefold:
+(1) Computationally investigating meaningful & engaging phenomena in humans and society to add new insights to humanity fields.
+(2) Building better AIs by bridging language, multimodal information, human cognitions, behaviors, world knowledge, etc., through an interdisciplinary lens.
+(3) Advancing AI applications to boost positive social impact.
+
 
 <!-- > *I'm evermore thankful to people who have mentored me in the past and at present. Thus, for undergrads who are interested in my work and want to take a stab at research, feel free to reach out to me.* -->
 
