@@ -1,5 +1,5 @@
 ---
-title: "THE GENERATIVE AI PARADOX: \"What It Can Create, It May Not Understand\""
+title: "The Generative AI Paradox: \"What It Can Create, It May Not Understand\""
 authors:
 - Peter West
 - Ximing Lu

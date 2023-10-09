@@ -84,7 +84,11 @@ My **long-term research goal** is threefold: computationally investigating meani
 
 <!-- , with broad interests in machine ethics, commonsense reasoning, applications for social good. -->
 
-My primary fields of study are **artificial intelligence (AI)** and **natural language processing (NLP)**. I'm intrigued to make wild imaginations come true by building AI & understand the charms, mysteries, and peculiarities of humans. Thus, my current research focuses on the **co-evolution of AI and humanity**: how to build better AI by taking inspiration from humans and how to understand humans better by developing better AI.
+<!-- My primary fields of study are **artificial intelligence (AI)** and **natural language processing (NLP)**. I'm intrigued to make wild imaginations come true by building AI & understand the charms, mysteries, and peculiarities of humans. Thus, my current research focuses on the **co-evolution of AI and humanity**: how to build better AI by taking inspiration from humans and how to gain valuable insights into humans by developing better AI. -->
+
+
+My primary fields of study are **artificial intelligence (AI)** and **natural language processing (NLP)**. I'm intrigued to make wild imaginations come true by building AI & understand the charms, mysteries, and peculiarities of humans. Thus, my current research focuses on the **co-evolution of AI and humanity**: how to build better AI by taking inspiration from humans and how to gain valuable insights into humans by developing better AI.
+
 
 <!-- I aspire to explore computational approaches and models building on knowledge in language and multimodal forms for trustworthy, meaningful, and prosocial applications. Previously, I worked on **human-computer interaction (HCI)**, so I'm also passionate about bringing human factors and interdisciplinary angles into play for my research. -->
 <!-- I aspire to explore computational approaches and models building on knowledge in language and multimodal forms for trustworthy, meaningful, and prosocial applications. Previously, I worked on **human-computer interaction (HCI)**, so I'm also passionate about bringing human factors and interdisciplinary angles into play for my research. -->
@@ -98,7 +102,7 @@ My primary fields of study are **artificial intelligence (AI)** and **natural la
 
 My **long-term research goal** is threefold:
 (1) Computationally investigating meaningful & engaging phenomena in humans and society to add new insights to humanity fields.
-(2) Building better AIs by bridging language, multimodal information, human cognitions, behaviors, world knowledge, etc., through an interdisciplinary lens.
+(2) Building better AI by bridging language, multimodal information, human cognitions, behaviors, philosophical insights, world knowledge, etc., through an interdisciplinary lens.
 (3) Advancing AI applications to boost positive social impact.
 
 
