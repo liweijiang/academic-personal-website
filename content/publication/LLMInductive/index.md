@@ -53,7 +53,7 @@ comments: false  # Show comments?
 
 links:
 # https://arxiv.org/abs/2104.06511
-# url_pdf: "https://arxiv.org/abs/2212.10465"
+url_pdf: "https://arxiv.org/abs/2310.08559"
 # url_slides: pdf/ANION.pdf
 #- name: Press
 #  url: https://news.stanford.edu/2019/05/08/learning-chatbot-teaches-beats-flashcards/
