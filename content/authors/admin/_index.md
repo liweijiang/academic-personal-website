@@ -19,7 +19,7 @@ organizations:
 # Interests to show in About widget
 interests:
 - Cultural Analytics
-- Digital Humanity
+- Digital Humanities
 - Computational Social Science
 - Natural Language Processing
 
