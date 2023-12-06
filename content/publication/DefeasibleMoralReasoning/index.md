@@ -1,8 +1,8 @@
 ---
 title: "What Makes it Ok to Set a Fire? Iterative Self-distillation of Contexts and Rationales for Disambiguating Defeasible Social and Moral Situations"
 authors:
-- Kavel Rao
 - admin
+- Kavel Rao
 - Valentina Pyatkin
 - Yuling Gu
 - Niket Tandon
@@ -10,8 +10,8 @@ authors:
 - Faeze Brahman
 - Yejin Choi
 author_notes:
-- "Co-first-author"
-- "Co-first-author"
+- "Equal Contribution"
+- "Equal Contribution"
 - ""
 - ""
 - ""
