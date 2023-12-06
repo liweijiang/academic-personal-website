@@ -1,22 +1,24 @@
 ---
-title: "EnglishBot: A Conversational AI System for Second Language Learning"
+title: "SODA: Million-scale Dialogue Distillation with Social Commonsense Contextualization"
 authors:
-- Sherry Ruan*
-- admin*
-- Qianyao Xu*
-- Glenn M. Davis
-- Zhiyuan Liu
-- Emma Brunskill
-- James A. Landay
+- Hyunwoo Kim
+- Jack Hessel
+- admin
+- Ximing Lu
+- Youngjae Yu
+- Pei Zhou
+- Ronan Le Bras
+- Malihe Alikhani
+- Gunhee Kim
+- Maarten Sap
+- Yejin Choi
 author_notes:
-- "Equal Contribution"
-- "Equal Contribution"
-- "Equal Contribution"
-date: "2021-04-01T00:00:00Z"
+
+date: "2023-02-24T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-04-01T00:00:00Z"
+publishDate: "2023-02-24T00:00:00Z"
 
 
 # Publication type.
@@ -26,18 +28,21 @@ publishDate: "2020-04-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: 26th Annual Conference on Intelligent User Interfaces
-publication_short: ACM IUI
+# publication: 2022 Annual Conference of the North American Chapter of the Association for Computational Linguistics
+# publication_short: NAACL-HLT
+publication: EMNLP
 
-abstract: Today, many students learn to speak a foreign language by listening to and repeating pre-recorded materials. This is due to the lack of practice opportunities with human partners. Leveraging recent advancements in AI, Speech, and NLP, we developed EnglishBot, a language learning chatbot that converses with students interactively on college-related topics and provides adaptive feedback. We evaluated EnglishBot against a traditional listen-and-repeat interface with 56 Chinese college students through two six-day user studies under both voluntary and fixed-usage conditions. Results show that students were more engaged with EnglishBot and voluntarily spent 2.1 times more time interacting with it. Students’ fluency also improved more with  EnglishBot under the IELTS grading standard. Our results suggest that chatbots are an effective learning tool to engage students and have great potential to enhance foreign learners’ speaking abilities.
+abstract: "We present SODA: the first publicly available, million-scale high-quality social dialogue dataset. Using SODA, we train COSMO: a generalizable conversation agent outperforming previous best-performing agents on both in- and out-of-domain datasets. 
+In contrast to most existing crowdsourced, small-scale dialogue corpora, we distill 1.5M socially-grounded dialogues from a pre-trained language model (InstructGPT; Ouyang et al., 2022). Dialogues are distilled by contextualizing social commonsense knowledge from a knowledge graph (Atomic10x; West et al., 2022). Human evaluation shows that dialogues in SODA are more consistent, specific, and (surprisingly) natural than prior human-authored datasets - e.g., DailyDialog (Li et al., 2017), BlendedSkillTalk (Smith et al., 2020). 
+In addition, extensive evaluations show that COSMO is significantly more natural and consistent on unseen datasets than best-performing dialogue models - e.g., GODEL (Peng et al., 2022), BlenderBot (Roller et al., 2021), DialoGPT (Zhang et al., 2020). Furthermore, it is sometimes even preferred to the original human-written gold responses. We make our data, models, and code public."
 
 # Summary. An optional shortened abstract.
 summary:
 
 tags:
-- HCI
+- NLP
 - long paper
-- 2021
+- 2023
 
 featured: false
 reading_time: false  # Show estimated reading time?
@@ -47,16 +52,18 @@ comments: false  # Show comments?
 
 
 links:
+# https://arxiv.org/abs/2104.06511
+url_pdf: "https://arxiv.org/abs/2212.10465"
+# url_slides: pdf/ANION.pdf
 #- name: Press
 #  url: https://news.stanford.edu/2019/05/08/learning-chatbot-teaches-beats-flashcards/
-url_pdf: "https://dl.acm.org/doi/10.1145/3397481.3450648"
 #  url_code: '#'
 #  url_dataset: '#'
-#  url_poster: '#'
+# url_poster: 'pdf/ANION.pdf'
 #  url_project: ''
-#url_slides: 'pdf/QuizBot.pdf'
+# url_slides: 'key/ANION.key'
 #url_source: ''
-url_video: "https://www.youtube.com/watch?v=2y0Rr6CW-fI"
+#url_video: 'https://www.youtube.com/embed/xL6_CTiD2DU'
 
 
 # Featured image

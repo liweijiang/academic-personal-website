@@ -1,22 +1,18 @@
 ---
-title: "EnglishBot: A Conversational AI System for Second Language Learning"
+title: "Aligning to Social Norms and Values in Interactive Narratives"
 authors:
-- Sherry Ruan*
-- admin*
-- Qianyao Xu*
-- Glenn M. Davis
-- Zhiyuan Liu
-- Emma Brunskill
-- James A. Landay
-author_notes:
-- "Equal Contribution"
-- "Equal Contribution"
-- "Equal Contribution"
-date: "2021-04-01T00:00:00Z"
+- Prithviraj Ammanabrolu
+- admin
+- Maarten Sap
+- Hannaneh Hajishirzi
+- Yejin Choi
+
+
+date: "2022-02-24T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-04-01T00:00:00Z"
+publishDate: "2022-02-24T00:00:00Z"
 
 
 # Publication type.
@@ -26,18 +22,18 @@ publishDate: "2020-04-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: 26th Annual Conference on Intelligent User Interfaces
-publication_short: ACM IUI
+publication: 2022 Annual Conference of the North American Chapter of the Association for Computational Linguistics
+publication_short: NAACL-HLT
 
-abstract: Today, many students learn to speak a foreign language by listening to and repeating pre-recorded materials. This is due to the lack of practice opportunities with human partners. Leveraging recent advancements in AI, Speech, and NLP, we developed EnglishBot, a language learning chatbot that converses with students interactively on college-related topics and provides adaptive feedback. We evaluated EnglishBot against a traditional listen-and-repeat interface with 56 Chinese college students through two six-day user studies under both voluntary and fixed-usage conditions. Results show that students were more engaged with EnglishBot and voluntarily spent 2.1 times more time interacting with it. Students’ fluency also improved more with  EnglishBot under the IELTS grading standard. Our results suggest that chatbots are an effective learning tool to engage students and have great potential to enhance foreign learners’ speaking abilities.
+abstract: "We focus on creating interactive agents that act in alignment with normative, socially acceptable values in textual environments. Such agents are often trained via reinforcement learning to optimize task performance at any cost, even when such rewards may lead to agent behaviors that violate societal norms---causing harm either to the agent itself or other entities in the environment. Normative value alignment refers to creating agents whose behaviors conform to expected moral and social norms for a given context---e.g. agents that are more likely to pursue non-harmful behaviors. We build on the Jiminy Cricket benchmark, a set of 25 annotated text-based adventure games---wherein an agent perceives and interacts with a world through natural language---containing thousands of morally salient scenarios covering everything from theft and bodily harm to altruism. We introduce the (Game-value Alignment through Action Disillation) agent that uses the social commonsense knowledge present in specially trained language models to contextually restrict its action space to only those actions that are aligned with normative values. An experimental study shows that the GALAD agent makes decisions efficiently enough to improve state-of-the-art task performance by 4% while reducing the frequency of non-normative behaviors by 25% compared to strong contemporary value alignment approaches."
 
 # Summary. An optional shortened abstract.
 summary:
 
 tags:
-- HCI
+- NLP
 - long paper
-- 2021
+- 2022
 
 featured: false
 reading_time: false  # Show estimated reading time?
@@ -47,16 +43,18 @@ comments: false  # Show comments?
 
 
 links:
+# https://arxiv.org/abs/2104.06511
+url_pdf: "https://arxiv.org/abs/2205.01975"
+# url_slides: pdf/ANION.pdfliwei
 #- name: Press
 #  url: https://news.stanford.edu/2019/05/08/learning-chatbot-teaches-beats-flashcards/
-url_pdf: "https://dl.acm.org/doi/10.1145/3397481.3450648"
 #  url_code: '#'
 #  url_dataset: '#'
-#  url_poster: '#'
+# url_poster: 'pdf/ANION.pdf'
 #  url_project: ''
-#url_slides: 'pdf/QuizBot.pdf'
+# url_slides: 'key/ANION.key'
 #url_source: ''
-url_video: "https://www.youtube.com/watch?v=2y0Rr6CW-fI"
+#url_video: 'https://www.youtube.com/embed/xL6_CTiD2DU'
 
 
 # Featured image

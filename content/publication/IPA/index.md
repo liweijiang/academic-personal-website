@@ -1,22 +1,30 @@
 ---
-title: "EnglishBot: A Conversational AI System for Second Language Learning"
+title: "Inference-Time Policy Adapters (IPA): Tailoring Extreme-Scale LMs without Fine-tuning"
 authors:
-- Sherry Ruan*
-- admin*
-- Qianyao Xu*
-- Glenn M. Davis
-- Zhiyuan Liu
-- Emma Brunskill
-- James A. Landay
+- Ximing Lu
+- Faeze Brahman
+- Peter West
+- Jaehun Jang
+- Khyathi Chandu
+- Abhilasha Ravichander
+- Lianhui Qin
+- Prithviraj Ammanabrolu
+- admin
+- Sahana Ramnath
+- Nouha Dziri
+- Jillian Fisher
+- Bill Yuchen Lin
+- Skyler Hallinan
+- Xiang Ren
+- Sean Welleck
+- Yejin Choi
 author_notes:
-- "Equal Contribution"
-- "Equal Contribution"
-- "Equal Contribution"
-date: "2021-04-01T00:00:00Z"
+
+date: "2023-02-24T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-04-01T00:00:00Z"
+publishDate: "2023-02-24T00:00:00Z"
 
 
 # Publication type.
@@ -26,18 +34,21 @@ publishDate: "2020-04-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: 26th Annual Conference on Intelligent User Interfaces
-publication_short: ACM IUI
+# publication: 2022 Annual Conference of the North American Chapter of the Association for Computational Linguistics
+# publication_short: NAACL-HLT
+publication: EMNLP
 
-abstract: Today, many students learn to speak a foreign language by listening to and repeating pre-recorded materials. This is due to the lack of practice opportunities with human partners. Leveraging recent advancements in AI, Speech, and NLP, we developed EnglishBot, a language learning chatbot that converses with students interactively on college-related topics and provides adaptive feedback. We evaluated EnglishBot against a traditional listen-and-repeat interface with 56 Chinese college students through two six-day user studies under both voluntary and fixed-usage conditions. Results show that students were more engaged with EnglishBot and voluntarily spent 2.1 times more time interacting with it. Students’ fluency also improved more with  EnglishBot under the IELTS grading standard. Our results suggest that chatbots are an effective learning tool to engage students and have great potential to enhance foreign learners’ speaking abilities.
+abstract: "Large language models excel at a variety of language tasks when prompted with examples or instructions. Yet controlling these models through prompting alone is limited. Tailoring language models through fine-tuning (e.g., via reinforcement learning) can be effective, but it is expensive and requires model access.
+We propose Inference-time Policy Adapters (IPA), which efficiently tailors a language model such as GPT-3 without fine-tuning it. IPA guides a large base model during decoding time through a lightweight policy adaptor trained to optimize an arbitrary user objective with reinforcement learning. 
+On five challenging text generation tasks, such as toxicity reduction and open-domain generation, IPA consistently brings significant improvements over off-the-shelf language models. It outperforms competitive baseline methods, sometimes even including expensive fine-tuning. In particular, tailoring GPT-2 with IPA can outperform GPT-3, while tailoring GPT-3 with IPA brings a major performance boost over GPT-3 (and sometimes even over GPT-4). Our promising results highlight the potential of IPA as a lightweight alternative to tailoring extreme-scale language models."
 
 # Summary. An optional shortened abstract.
 summary:
 
 tags:
-- HCI
+- NLP
 - long paper
-- 2021
+- 2023
 
 featured: false
 reading_time: false  # Show estimated reading time?
@@ -47,16 +58,18 @@ comments: false  # Show comments?
 
 
 links:
+# https://arxiv.org/abs/2104.06511
+url_pdf: "https://arxiv.org/abs/2305.15065"
+# url_slides: pdf/ANION.pdf
 #- name: Press
 #  url: https://news.stanford.edu/2019/05/08/learning-chatbot-teaches-beats-flashcards/
-url_pdf: "https://dl.acm.org/doi/10.1145/3397481.3450648"
 #  url_code: '#'
 #  url_dataset: '#'
-#  url_poster: '#'
+# url_poster: 'pdf/ANION.pdf'
 #  url_project: ''
-#url_slides: 'pdf/QuizBot.pdf'
+# url_slides: 'key/ANION.key'
 #url_source: ''
-url_video: "https://www.youtube.com/watch?v=2y0Rr6CW-fI"
+#url_video: 'https://www.youtube.com/embed/xL6_CTiD2DU'
 
 
 # Featured image
