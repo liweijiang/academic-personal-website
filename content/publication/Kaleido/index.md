@@ -1,5 +1,5 @@
 ---
-title: "Value Kaleidoscope: Engaging AI with Pluralistic Human Values, Rights, and Duties"
+title: "Value Kaleidoscope: Engaging Machines with Pluralistic Human Values, Rights, and Duties"
 authors:
 - Taylor Sorensen
 - admin

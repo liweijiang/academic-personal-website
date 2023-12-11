@@ -18,10 +18,10 @@ organizations:
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
+- Cultural Analytics
+- Digital Humanities
+- Computational Social Science
 - Natural Language Processing
-- Machine Learning
-- Human-computer Interaction
 
 # Education to show in About widget
 education:
@@ -72,6 +72,11 @@ highlight_name: true
 ---
 
 I am a Ph.D. student at [Paul G. Allen School of Computer Science & Engineering, University of Washington](https://www.cs.washington.edu), advised by Professor [Yejin Choi](https://homes.cs.washington.edu/~yejin/). I earned B.A. in Computer Science and B.A. in Mathematics from [Colby College](http://www.colby.edu). During my undergraduate studies, I worked on [Smart Primer](https://hci.stanford.edu/research/smartprimer/) at [Stanford University HCI group](https://hci.stanford.edu).
+
+My research focuses on **cultural analytics** and **digital humanity** approaches that mine and analyze moral norms, social biases, pluralistic human values, and cultures through massive human-curated and web data, with assistance from natural language processing technologies such as language models. I apply theoretical frameworks motivated by cognitive science, moral philosophy, social psychology, among other humanity fields.
+
+I also previously worked on designing human-facing applications for social good, e.g., healthcare and education, and for understanding human commonsense.
+
 <!-- 
 My primary field of study is **natural language processing (NLP)**, currently focusing on commonsense knowledge reasoning, connotative language understanding, and conversational applications for social good, such as education and healthcare.
 
@@ -87,7 +92,7 @@ My **long-term research goal** is threefold: computationally investigating meani
 <!-- My primary fields of study are **artificial intelligence (AI)** and **natural language processing (NLP)**. I'm intrigued to make wild imaginations come true by building AI & understand the charms, mysteries, and peculiarities of humans. Thus, my current research focuses on the **co-evolution of AI and humanity**: how to build better AI by taking inspiration from humans and how to gain valuable insights into humans by developing better AI. -->
 
 
-My primary fields of study are **artificial intelligence (AI)** and **natural language processing (NLP)**. I'm intrigued to make wild imaginations come true by building AI & orchestrate mathematical and philosophical rigor to tackle real-world needs & understand the charms, mysteries, and peculiarities of humans. Thus, my current research focuses on the **co-evolution of AI and humanity**: how to build better AI by taking inspiration from humans and how to gain valuable insights into humans by advancing AI.
+<!-- My primary fields of study are **artificial intelligence (AI)** and **natural language processing (NLP)**. I'm intrigued to make wild imaginations come true by building AI & orchestrate mathematical and philosophical rigor to tackle real-world needs & understand the charms, mysteries, and peculiarities of humans. Thus, my current research focuses on the **co-evolution of AI and humanity**: how to build better AI by taking inspiration from humans and how to gain valuable insights into humans by advancing AI. -->
 
 
 <!-- I aspire to explore computational approaches and models building on knowledge in language and multimodal forms for trustworthy, meaningful, and prosocial applications. Previously, I worked on **human-computer interaction (HCI)**, so I'm also passionate about bringing human factors and interdisciplinary angles into play for my research. -->
@@ -100,11 +105,11 @@ My primary fields of study are **artificial intelligence (AI)** and **natural la
 
 <!-- My **long-term research goal** is threefold: (1) computationally investigating meaningful & interesting phenomena in the world, (2) building models that bridge language and multimodal information, human cognitions & behaviors and world knowledge through an interdisciplinary lense, and advancing AI applications to boost positive social impact. -->
 
-My **long-term research goal** is threefold:
+<!-- My **long-term research goal** is threefold:
 (1) Computationally investigating meaningful & engaging phenomena in humans and society to add new insights to humanity.
 (2) Inventing and engineering better AI by bridging language, multimodal information, human cognitions, behaviors, philosophical insights, world knowledge, mathematical formulations, etc., through an interdisciplinary lens.
 (3) Advancing AI applications to boost positive social impact.
-
+ -->
 
 <!-- > *I'm evermore thankful to people who have mentored me in the past and at present. Thus, for undergrads who are interested in my work and want to take a stab at research, feel free to reach out to me.* -->
 

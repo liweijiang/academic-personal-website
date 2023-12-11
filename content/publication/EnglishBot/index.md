@@ -1,8 +1,8 @@
 ---
-title: "EnglishBot: A Conversational AI System for Second Language Learning"
+title: "EnglishBot: A Conversational System for Second Language Learning"
 authors:
-- admin*
 - Sherry Ruan*
+- admin*
 - Qianyao Xu*
 - Glenn M. Davis
 - Zhiyuan Liu
