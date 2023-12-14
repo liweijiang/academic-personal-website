@@ -1,22 +1,20 @@
 ---
-title: "EnglishBot: A Conversational AI System for Second Language Learning"
+title: "Reinforced Clarification Question Generation with Defeasibility Rewards for Disambiguating Social and Moral Situations"
 authors:
-- admin*
-- Sherry Ruan*
-- Qianyao Xu*
-- Glenn M. Davis
-- Zhiyuan Liu
-- Emma Brunskill
-- James A. Landay
+- Valentina Pyatkin
+- Jena D. Hwang
+- Vivek Srikumar
+- Ximing Lu
+- admin
+- Yejin Choi
+- Chandra Bhagavatula
 author_notes:
-- "Equal Contribution"
-- "Equal Contribution"
-- "Equal Contribution"
-date: "2021-04-01T00:00:00Z"
+
+date: "2023-02-24T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-04-01T00:00:00Z"
+publishDate: "2023-02-24T00:00:00Z"
 
 
 # Publication type.
@@ -26,18 +24,22 @@ publishDate: "2020-04-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: 26th Annual Conference on Intelligent User Interfaces
-publication_short: ACM IUI
+# publication: 2022 Annual Conference of the North American Chapter of the Association for Computational Linguistics
+publication_short: ACL
+publication: 2023 Annual Conference of the North American Chapter of the Association for Computational Linguistics
 
-abstract: Today, many students learn to speak a foreign language by listening to and repeating pre-recorded materials. This is due to the lack of practice opportunities with human partners. Leveraging recent advancements in AI, Speech, and NLP, we developed EnglishBot, a language learning chatbot that converses with students interactively on college-related topics and provides adaptive feedback. We evaluated EnglishBot against a traditional listen-and-repeat interface with 56 Chinese college students through two six-day user studies under both voluntary and fixed-usage conditions. Results show that students were more engaged with EnglishBot and voluntarily spent 2.1 times more time interacting with it. Students’ fluency also improved more with  EnglishBot under the IELTS grading standard. Our results suggest that chatbots are an effective learning tool to engage students and have great potential to enhance foreign learners’ speaking abilities.
+abstract: "Context is everything, even in commonsense moral reasoning. Changing contexts can flip the moral judgment of an action; Lying to a friend is wrong in general, but may be morally acceptable if it is intended to protect their life.
+We present ClarifyDelphi, an interactive system that learns to ask clarification questions (e.g., why did you lie to your friend?) in order to elicit additional salient contexts of a social or moral situation.   
+We posit that questions whose potential answers lead to diverging moral judgments are the most informative. Thus, we propose a reinforcement learning framework with defeasibility rewards that aims to maximize the divergence between moral judgments of hypothetical answers to a question. Human evaluation demonstrates that our system generates more {relevant}, {informative} and {defeasible} questions compared to competitive baselines. 
+Our work is ultimately inspired by studies in cognitive science that have investigated the flexibility in moral cognition (i.e., the diverse contexts in which moral rules can be bent), and we hope that research in this direction can assist both cognitive and computational investigations of moral judgments. "
 
 # Summary. An optional shortened abstract.
 summary:
 
 tags:
-- HCI
+- NLP
 - long paper
-- 2021
+- 2023
 
 featured: false
 reading_time: false  # Show estimated reading time?
@@ -47,16 +49,18 @@ comments: false  # Show comments?
 
 
 links:
+# https://arxiv.org/abs/2104.06511
+url_pdf: "https://arxiv.org/abs/2212.10409"
+# url_slides: pdf/ANION.pdf
 #- name: Press
 #  url: https://news.stanford.edu/2019/05/08/learning-chatbot-teaches-beats-flashcards/
-url_pdf: "https://dl.acm.org/doi/10.1145/3397481.3450648"
 #  url_code: '#'
 #  url_dataset: '#'
-#  url_poster: '#'
+# url_poster: 'pdf/ANION.pdf'
 #  url_project: ''
-#url_slides: 'pdf/QuizBot.pdf'
+# url_slides: 'key/ANION.key'
 #url_source: ''
-url_video: "https://www.youtube.com/watch?v=2y0Rr6CW-fI"
+#url_video: 'https://www.youtube.com/embed/xL6_CTiD2DU'
 
 
 # Featured image

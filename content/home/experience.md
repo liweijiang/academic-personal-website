@@ -31,7 +31,7 @@ experience:
     description:
 
   - title: Graduate Research Intern
-    company: Mosaic Team at Allen Institute
+    company: Allen Institute for Artificial Intelligence (AI2)
     company_url: ''
     location: Seattle, Washington
     date_start: '2020-06-01'

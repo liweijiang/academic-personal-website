@@ -1,22 +1,24 @@
 ---
-title: "EnglishBot: A Conversational AI System for Second Language Learning"
+title: "NovaCOMET: Open Commonsense Foundation Models with Symbolic Knowledge Distillation"
 authors:
-- admin*
-- Sherry Ruan*
-- Qianyao Xu*
-- Glenn M. Davis
-- Zhiyuan Liu
-- Emma Brunskill
-- James A. Landay
+- Peter West
+- Ronan Le Bras
+- Taylor Sorensen
+- Bill Yuchen Lin
+- admin
+- Ximing Lu
+- Khyathi Chandu
+- Jack Hessel
+- Ashutosh Baheti
+- Chandra Bhagavatula
+- Yejin Choi
 author_notes:
-- "Equal Contribution"
-- "Equal Contribution"
-- "Equal Contribution"
-date: "2021-04-01T00:00:00Z"
+
+date: "2023-02-24T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-04-01T00:00:00Z"
+publishDate: "2023-02-24T00:00:00Z"
 
 
 # Publication type.
@@ -26,18 +28,19 @@ publishDate: "2020-04-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: 26th Annual Conference on Intelligent User Interfaces
-publication_short: ACM IUI
+# publication: 2022 Annual Conference of the North American Chapter of the Association for Computational Linguistics
+# publication_short: NAACL-HLT
+publication: Findings of EMNLP
 
-abstract: Today, many students learn to speak a foreign language by listening to and repeating pre-recorded materials. This is due to the lack of practice opportunities with human partners. Leveraging recent advancements in AI, Speech, and NLP, we developed EnglishBot, a language learning chatbot that converses with students interactively on college-related topics and provides adaptive feedback. We evaluated EnglishBot against a traditional listen-and-repeat interface with 56 Chinese college students through two six-day user studies under both voluntary and fixed-usage conditions. Results show that students were more engaged with EnglishBot and voluntarily spent 2.1 times more time interacting with it. Students’ fluency also improved more with  EnglishBot under the IELTS grading standard. Our results suggest that chatbots are an effective learning tool to engage students and have great potential to enhance foreign learners’ speaking abilities.
+abstract: "We present NovaCOMET, an open commonsense knowledge model, that combines the best aspects of knowledge and general task models. Compared to previous knowledge models, NovaCOMET allows open-format relations enabling direct application to reasoning tasks; compared to general task models like Flan-T5, it explicitly centers knowledge, enabling superior performance for commonsense reasoning. NovaCOMET leverages the knowledge of opaque proprietary models to create an open knowledge pipeline. First, knowledge is symbolically distilled into NovAtomic, a publicly-released discrete knowledge graph which can be audited, critiqued, and filtered.  Next, we train NovaCOMET on NovAtomic by fine-tuning an open-source pretrained model.  NovaCOMET uses an open-format training objective, replacing the fixed relation sets of past knowledge models, enabling arbitrary structures within the data to serve as inputs or outputs. The resulting generation model, optionally augmented with human annotation, matches or exceeds comparable open task models like Flan-T5 on a range of commonsense generation tasks. NovaCOMET serves as a counterexample to the contemporary focus on instruction tuning only, demonstrating a distinct advantage to explicitly modeling commonsense knowledge as well. "
 
 # Summary. An optional shortened abstract.
 summary:
 
 tags:
-- HCI
+- NLP
 - long paper
-- 2021
+- 2023
 
 featured: false
 reading_time: false  # Show estimated reading time?
@@ -47,16 +50,18 @@ comments: false  # Show comments?
 
 
 links:
+# https://arxiv.org/abs/2104.06511
+# url_pdf: "https://arxiv.org/abs/2212.10465"
+# url_slides: pdf/ANION.pdf
 #- name: Press
 #  url: https://news.stanford.edu/2019/05/08/learning-chatbot-teaches-beats-flashcards/
-url_pdf: "https://dl.acm.org/doi/10.1145/3397481.3450648"
 #  url_code: '#'
 #  url_dataset: '#'
-#  url_poster: '#'
+# url_poster: 'pdf/ANION.pdf'
 #  url_project: ''
-#url_slides: 'pdf/QuizBot.pdf'
+# url_slides: 'key/ANION.key'
 #url_source: ''
-url_video: "https://www.youtube.com/watch?v=2y0Rr6CW-fI"
+#url_video: 'https://www.youtube.com/embed/xL6_CTiD2DU'
 
 
 # Featured image
