@@ -1,13 +1,11 @@
 ---
-title: "Impossible Distillation: from Low-Quality Model to High-Quality Dataset & Model for Summarization and Paraphrasing"
+title: "JAMDEC: Unsupervised Authorship Obfuscation using Constrained Decoding over Small Language Models"
 authors:
-- Jaehun Jung
-- Peter West
-- admin
-- Faeze Brahman
-- Ximing Lu
 - Jillian Fisher
-- Taylor Sorensen
+- Ximing Lu
+- Jaehun Jung
+- admin
+- Zaid Harchaoui
 - Yejin Choi
 author_notes:
 
