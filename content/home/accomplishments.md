@@ -24,6 +24,14 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
+- title: Outstanding Paper Award
+  date_start: "2024-05-01"
+  organization: CHI 2024
+  # description: "Paul G. Allen School First-Year Ph.D. Fellowship"
+  certificate_url:
+  date_end: ""
+  organization_url:
+  url: ""
 - title: Anne Dinning - Michael Wolf Endowed Regental Fellowship
   date_start: "2019-09-01"
   organization: University of Washington
