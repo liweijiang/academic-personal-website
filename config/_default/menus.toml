@@ -13,6 +13,11 @@
 #   url = "#posts"
 #   weight = 20
 
+# [[main]]
+#   name = "News"
+#   url = "#news"
+#   weight = 15
+
 [[main]]
   name = "Publications"
   url = "#publications"
@@ -31,11 +36,6 @@
 # [[main]]
 #   name = "Life"
 #   url = "#life"
-#   weight = 40
-
-# [[main]]
-#   name = "Talks"
-#   url = "#talks"
 #   weight = 40
 
 
