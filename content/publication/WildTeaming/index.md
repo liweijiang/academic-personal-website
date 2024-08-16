@@ -1,7 +1,7 @@
 ---
 title: "WildTeaming at Scale: From In-the-Wild Jailbreaks to (Adversarially) Safer Language Models"
 authors:
-- Liwei Jiang
+- admin
 - Kavel Rao
 - Seungju Han
 - Allyson Ettinger
