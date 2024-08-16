@@ -71,7 +71,7 @@ email: "lwjiang@cs.washington.edu"
 highlight_name: true
 ---
 
-I am a Ph.D. student at [Paul G. Allen School of Computer Science & Engineering, University of Washington](https://www.cs.washington.edu), advised by Professor [Yejin Choi](https://homes.cs.washington.edu/~yejin/). I'm also a student researcher at [Allen Institute for Artificial Intelligence (Ai2)](https://allenai.org). I earned B.A. in Computer Science and B.A. in Mathematics from [Colby College](http://www.colby.edu). During my undergraduate studies, I worked on [Smart Primer](https://hci.stanford.edu/research/smartprimer/) at [Stanford University HCI group](https://hci.stanford.edu).
+I am a Ph.D. student at [Paul G. Allen School of Computer Science & Engineering, University of Washington](https://www.cs.washington.edu), advised by Professor [Yejin Choi](https://homes.cs.washington.edu/~yejin/). I am also a student researcher at [Allen Institute for Artificial Intelligence (Ai2)](https://allenai.org). I earned B.A. in Computer Science and B.A. in Mathematics from [Colby College](http://www.colby.edu). During my undergraduate studies, I worked on [Smart Primer](https://hci.stanford.edu/research/smartprimer/) at [Stanford University HCI group](https://hci.stanford.edu).
 <!-- 
 My primary field of study is **natural language processing (NLP)**, currently focusing on commonsense knowledge reasoning, connotative language understanding, and conversational applications for social good, such as education and healthcare.
 
