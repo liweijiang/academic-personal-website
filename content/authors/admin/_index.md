@@ -71,7 +71,7 @@ email: "lwjiang@cs.washington.edu"
 highlight_name: true
 ---
 
-I am a Ph.D. student at [Paul G. Allen School of Computer Science & Engineering, University of Washington](https://www.cs.washington.edu), advised by Professor [Yejin Choi](https://homes.cs.washington.edu/~yejin/). I'm also a student researcher at [Allen Institute for Artificial Intelligence (Ai2)]() I earned B.A. in Computer Science and B.A. in Mathematics from [Colby College](http://www.colby.edu). During my undergraduate studies, I worked on [Smart Primer](https://hci.stanford.edu/research/smartprimer/) at [Stanford University HCI group](https://hci.stanford.edu).
+I am a Ph.D. student at [Paul G. Allen School of Computer Science & Engineering, University of Washington](https://www.cs.washington.edu), advised by Professor [Yejin Choi](https://homes.cs.washington.edu/~yejin/). I'm also a student researcher at [Allen Institute for Artificial Intelligence (Ai2)](https://allenai.org). I earned B.A. in Computer Science and B.A. in Mathematics from [Colby College](http://www.colby.edu). During my undergraduate studies, I worked on [Smart Primer](https://hci.stanford.edu/research/smartprimer/) at [Stanford University HCI group](https://hci.stanford.edu).
 <!-- 
 My primary field of study is **natural language processing (NLP)**, currently focusing on commonsense knowledge reasoning, connotative language understanding, and conversational applications for social good, such as education and healthcare.
 
@@ -87,7 +87,7 @@ My **long-term research goal** is threefold: computationally investigating meani
 <!-- My primary fields of study are **artificial intelligence (AI)** and **natural language processing (NLP)**. I'm intrigued to make wild imaginations come true by building AI & understand the charms, mysteries, and peculiarities of humans. Thus, my current research focuses on the **co-evolution of AI and humanity**: how to build better AI by taking inspiration from humans and how to gain valuable insights into humans by developing better AI. -->
 
 
-My primary fields of study are **artificial intelligence (AI)** and **natural language processing (NLP)**. I'm intrigued to make wild imaginations come true by building AI & orchestrate mathematical and philosophical rigor to tackle real-world needs & understand the charms, mysteries, and peculiarities of humans. Thus, my current research focuses on the **co-evolution of AI and humanity**: how to build better AI by taking inspiration from humans and how to gain valuable insights into humans by advancing AI.
+My primary fields of study are **artificial intelligence (AI)** and **natural language processing (NLP)**. I'm intrigued to make wild imaginations come true by building AI & orchestrate mathematical and philosophical rigor to tackle real-world needs & understand the charms, mysteries, and peculiarities of humans. Thus, my current research focuses on the **co-evolution of AI and humanity**: developing AI systems with deep concerns for human *traits*, *values*, and *needs*, while gleaning novel insights into *humans*, *society*, and *humanity* through advancing AI.
 
 
 <!-- I aspire to explore computational approaches and models building on knowledge in language and multimodal forms for trustworthy, meaningful, and prosocial applications. Previously, I worked on **human-computer interaction (HCI)**, so I'm also passionate about bringing human factors and interdisciplinary angles into play for my research. -->
@@ -108,7 +108,7 @@ My **long-term research goal** is threefold:
 
 <!-- > *I'm evermore thankful to people who have mentored me in the past and at present. Thus, for undergrads who are interested in my work and want to take a stab at research, feel free to reach out to me.* -->
 
-> *I'm forever thankful to people who have mentored me in the past and at present. Thus, for undergrads interested in my work and who want to take a stab at research, feel free to reach out to me.*
+> *I'm forever thankful to the people who have mentored me in the past and at present. Thus, feel free to reach out to me for undergrads and junior researchers who are interested in my work and want to take a stab at research.*
 
 
 <!-- I've reserved 1 hour per week to provide feedback on PhD applicantions in my relevant field from **underrepresented communities**. Feel free to contact me via email.* -->
