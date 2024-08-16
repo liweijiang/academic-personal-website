@@ -108,7 +108,7 @@ My **long-term research goal** is threefold:
 
 <!-- > *I'm evermore thankful to people who have mentored me in the past and at present. Thus, for undergrads who are interested in my work and want to take a stab at research, feel free to reach out to me.* -->
 
-> *I'm forever thankful to the people who have mentored me in the past and at present. Thus, feel free to reach out to me for undergrads and junior researchers who are interested in my work and want to take a stab at research.*
+> *I'm forever thankful to the people who have mentored me. Thus, feel free to reach out to me for undergrads and junior researchers who are interested in my work.*
 
 
 <!-- I've reserved 1 hour per week to provide feedback on PhD applicantions in my relevant field from **underrepresented communities**. Feel free to contact me via email.* -->

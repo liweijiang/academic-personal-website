@@ -41,7 +41,7 @@ item:
   organization_url:
   url: ""
 - title: Best Paper Award
-  date_start: "2023-12-01"
+  date_start: "2022-07-01"
   organization: NAACL 2022
   # description: "Paul G. Allen School First-Year Ph.D. Fellowship"
   certificate_url:
