@@ -32,6 +32,22 @@ item:
   date_end: ""
   organization_url:
   url: ""
+- title: Outstanding Paper Award
+  date_start: "2023-12-01"
+  organization: EMNLP 2023
+  # description: "Paul G. Allen School First-Year Ph.D. Fellowship"
+  certificate_url:
+  date_end: ""
+  organization_url:
+  url: ""
+- title: Best Paper Award
+  date_start: "2023-12-01"
+  organization: NAACL 2022
+  # description: "Paul G. Allen School First-Year Ph.D. Fellowship"
+  certificate_url:
+  date_end: ""
+  organization_url:
+  url: ""
 - title: Anne Dinning - Michael Wolf Endowed Regental Fellowship
   date_start: "2019-09-01"
   organization: University of Washington
