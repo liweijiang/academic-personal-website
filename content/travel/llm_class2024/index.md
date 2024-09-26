@@ -39,7 +39,7 @@ links:
 #   icon_pack: fab
 #   name: Follow
 #   url: https://twitter.com/georgecushen
-url_code: ""
+url_code: "https://www.notion.so/Winter-24-CSE-447-517-Natural-Language-Processing-4142333a001143d2be5ecff1a535c4ab"
 url_pdf: ""
 url_slides: ""
 url_video: ""
