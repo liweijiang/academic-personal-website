@@ -1,5 +1,5 @@
 ---
-title: ✈️ I'm attending NeurIPS from Dec 10-15, 2024. Welcome to check out our accepted papers on WildTeaming and WildGuard, and our co-organized workshop on Socially Responsible Language Modelling Research (SoLaR). See you in Vancouver 🇨🇦!
+title: ✈️(Dec 2024) I'm attending NeurIPS from Dec 10-15, 2024. Welcome to check out our accepted papers on WildTeaming and WildGuard, and our co-organized workshop on Socially Responsible Language Modelling Research (SoLaR). See you in Vancouver 🇨🇦!
 
 # event: Wowchemy Conference
 # event_url: https://example.org

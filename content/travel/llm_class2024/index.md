@@ -1,8 +1,8 @@
 ---
 title: 💡(Jan 2024) Served as the lead TA and co-renovated/designed the class module of the undergrad and grad NLP class (a LLM version!s) at UW CSE (Win 24 CSE 447/517)!
 
-# event: Wowchemy Conference
-# event_url: https://example.org
+event: class website
+event_url: https://www.notion.so/Winter-24-CSE-447-517-Natural-Language-Processing-4142333a001143d2be5ecff1a535c4ab
 
 # location: Wowchemy HQ
 # address:
@@ -36,8 +36,8 @@ image:
   # focal_point: Right
 
 links:
-- url: "https://www.notion.so/Winter-24-CSE-447-517-Natural-Language-Processing-4142333a001143d2be5ecff1a535c4ab"
-  name: Winter 24 CSE 447/517 Natural Language Processing
+# - url: "https://www.notion.so/Winter-24-CSE-447-517-Natural-Language-Processing-4142333a001143d2be5ecff1a535c4ab"
+#   name: Winter 24 CSE 447/517 Natural Language Processing
 
 # - icon: twitter
 #   icon_pack: fab

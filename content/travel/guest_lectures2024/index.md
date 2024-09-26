@@ -15,7 +15,7 @@ title: 💡(Oct/Nov 2024) I'll be giving three guest lectures at UIUC, Universit
 # summary: Feel free to reach out if you'd like to chat!
 # abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
 
-# Talk start and end times.
+# Talk start and end times.g
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: "2024-10-22T13:00:00Z"
 # date_end: "2024-10-10T13:00:00Z"
