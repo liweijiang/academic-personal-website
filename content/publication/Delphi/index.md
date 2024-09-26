@@ -1,5 +1,5 @@
 ---
-title: "Can Machines Learn Morality? The Delphi Experiment"
+title: "An Empirical Investigation of Machines' Capabilities for Moral Judgment with the Delphi Experiment"
 authors:
 - admin
 - Jena D. Hwang
@@ -20,6 +20,8 @@ authors:
 
 date: "2024-05-24T00:00:00Z"
 doi: ""
+
+# Can Machines Learn Morality? The Delphi Experiment
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2024-05-24T00:00:00Z"
