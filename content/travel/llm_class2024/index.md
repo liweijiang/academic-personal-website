@@ -1,5 +1,5 @@
 ---
-title: 💡 (Jan 2024) Served as the lead TA and co-renovated/co-designed the class module of the undergrad and grad NLP class (a LLM version!) at UW CSE!
+title: 💡 (Jan 2024) Served as the lead TA and co-renovated/co-designed the class module of the undergrad and grad NLP class (a LLM version!) at UW CSE.
 
 # event: class website
 # event_url: https://www.notion.so/Winter-24-CSE-447-517-Natural-Language-Processing-4142333a001143d2be5ecff1a535c4ab
