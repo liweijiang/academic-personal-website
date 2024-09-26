@@ -19,6 +19,7 @@ title: 💡 Served as the lead TA and co-renovated/designed the class module of 
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: "2024-01-22T13:00:00Z"
 # date_end: "2024-10-10T13:00:00Z"
+
 # all_day: false
 
 # Schedule page publish date (NOT talk date).
@@ -35,11 +36,14 @@ image:
   # focal_point: Right
 
 links:
+- url: "https://www.notion.so/Winter-24-CSE-447-517-Natural-Language-Processing-4142333a001143d2be5ecff1a535c4ab"
+  name: Winter 24 CSE 447/517 Natural Language Processing
+  
 # - icon: twitter
 #   icon_pack: fab
 #   name: Follow
 #   url: https://twitter.com/georgecushen
-url_code: "https://www.notion.so/Winter-24-CSE-447-517-Natural-Language-Processing-4142333a001143d2be5ecff1a535c4ab"
+url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
