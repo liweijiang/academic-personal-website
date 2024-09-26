@@ -15,11 +15,11 @@ authors:
 
 author_notes:
 
-date: "2024-02-24T00:00:00Z"
+date: "2024-02-25T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2024-02-24T00:00:00Z"
+publishDate: "2024-02-25T00:00:00Z"
 
 
 # Publication type.
@@ -31,7 +31,7 @@ publication_types: ["1"]
 # Publication name and optional abbreviated publication name.
 # publication: 2022 Annual Conference of the North American Chapter of the Association for Computational Linguistics
 # publication_short: NAACL-HLT
-publication: In submission
+publication: Preprint
 
 abstract: "While hallucinations of large language models (LLMs) prevail as a major challenge, existing evaluation benchmarks on factuality do not cover the diverse domains of knowledge that the real-world users of LLMs seek information about. To bridge this gap, we introduce WildHallucinations, a benchmark that evaluates factuality. It does so by prompting LLMs to generate information about entities mined from user-chatbot conversations in the wild. These generations are then automatically fact-checked against a systematically curated knowledge source collected from web search. Notably, half of these real-world entities do not have associated Wikipedia pages. We evaluate 118,785 generations from 15 LLMs on 7,919 entities. We find that LLMs consistently hallucinate more on entities without Wikipedia pages and exhibit varying hallucination rates across different domains. Finally, given the same base models, adding a retrieval component only slightly reduces hallucinations but does not eliminate hallucinations."
 

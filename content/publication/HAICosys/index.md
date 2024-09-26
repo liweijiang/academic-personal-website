@@ -1,17 +1,31 @@
 ---
-title: "CulturalTeaming: AI-Assisted Interactive Red-Teaming for Challenging LLMs' (Lack of) Multicultural Knowledge"
+title: "HAICOSYSTEM: An Ecosystem for Sandboxing Safety Risks in Human-AI Interactions"
 authors:
-- Yu Ying Chiu
-- admin 
-- Maria Antoniak
-- Chan Young Park
-- Shuyue Stella Li
-- Mehar Bhatia
-- Sahithya Ravi
-- Yulia Tsvetkov
-- Vered Shwartz
+- Xuhui Zhou
+- Hyunwoo Kim
+- Faeze Brahman
+- admin
+- Hao Zhu
+- Ximing Lu
+- Frank Xu
+- Bill Yuchen Lin
 - Yejin Choi
+- Niloofar Mireshghallah
+- Ronan Le Bras
+- Maarten Sap
 author_notes:
+- ""
+- "Co-second-author"
+- "Co-second-author"
+- ""
+- ""
+- ""
+- ""
+- ""
+- ""
+- ""
+- ""
+- ""
 
 date: "2024-02-24T00:00:00Z"
 doi: ""
@@ -31,7 +45,7 @@ publication_types: ["1"]
 # publication_short: NAACL-HLT
 publication: Preprint
 
-abstract: "Frontier large language models (LLMs) are developed by researchers and practitioners with skewed cultural backgrounds and on datasets with skewed sources. However, LLMs' (lack of) multicultural knowledge cannot be effectively assessed with current methods for developing benchmarks. Existing multicultural evaluations primarily rely on expensive and restricted human annotations or potentially outdated internet resources. Thus, they struggle to capture the intricacy, dynamics, and diversity of cultural norms. LLM-generated benchmarks are promising, yet risk propagating the same biases they are meant to measure. To synergize the creativity and expert cultural knowledge of human annotators and the scalability and standardizability of LLM-based automation, we introduce CulturalTeaming, an interactive red-teaming system that leverages human-AI collaboration to build truly challenging evaluation dataset for assessing the multicultural knowledge of LLMs, while improving annotators' capabilities and experiences. Our study reveals that CulturalTeaming's various modes of AI assistance support annotators in creating cultural questions, that modern LLMs fail at, in a gamified manner. Importantly, the increased level of AI assistance (e.g., LLM-generated revision hints) empowers users to create more difficult questions with enhanced perceived creativity of themselves, shedding light on the promises of involving heavier AI assistance in modern evaluation dataset creation procedures. Through a series of 1-hour workshop sessions, we gather CULTURALBENCH-V0.1, a compact yet high-quality evaluation dataset with users' red-teaming attempts, that different families of modern LLMs perform with accuracy ranging from 37.7% to 72.2%, revealing a notable gap in LLMs' multicultural proficiency."
+abstract: "AI agents are increasingly autonomous in their interactions with human users and tools, leading to increased interactional safety risks. We present HAICOSYSTEM, a framework examining AI agent safety within diverse and complex social interactions. HAICOSYSTEM features a modular sandbox environment that simulates multi-turn interactions between human users and AI agents, where the AI agents are equipped with a variety of tools (e.g., patient management platforms) to navigate diverse scenarios (e.g., a user attempting to access other patients' profiles). To examine the safety of AI agents in these interactions, we develop a comprehensive multi-dimensional evaluation framework that uses metrics covering operational, content-related, societal, and legal risks. Through running 1840 simulations based on 92 scenarios across seven domains (e.g., healthcare, finance, education), we demonstrate that HAICOSYSTEM can emulate realistic user-AI interactions and complex tool use by AI agents. Our experiments show that state-of-the-art LLMs, both proprietary and open-sourced, exhibit safety risks in over 50\% cases, with models generally showing higher risks when interacting with simulated malicious users. Our findings highlight the ongoing challenge of building agents that can safely navigate complex interactions, particularly when faced with malicious users. To foster the AI agent safety ecosystem, we release a code platform that allows practitioners to create custom scenarios, simulate interactions, and evaluate the safety and performance of their agents."
 
 # Summary. An optional shortened abstract.
 summary:
@@ -50,7 +64,7 @@ comments: false  # Show comments?
 
 links:
 # https://arxiv.org/abs/2104.06511
-url_pdf: "https://arxiv.org/abs/2404.06664"
+url_pdf: "https://arxiv.org/abs/2409.16427"
 # url_slides: pdf/ANION.pdf
 #- name: Press
 #  url: https://news.stanford.edu/2019/05/08/learning-chatbot-teaches-beats-flashcards/

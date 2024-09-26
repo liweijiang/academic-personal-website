@@ -1,5 +1,5 @@
 ---
-title: ✈️ I'll be attending the 2024 Bay Area Alignment Workshop at Santa Cruz from Oct 24-25, 2024!
+title: 💡 I'll be giving three guest lectures at UIUC, University of Pittsburgh and KAIST in Oct and Nov 2024!
 
 # event: Wowchemy Conference
 # event_url: https://example.org
@@ -17,7 +17,7 @@ title: ✈️ I'll be attending the 2024 Bay Area Alignment Workshop at Santa Cr
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2024-10-24T13:00:00Z"
+date: "2024-10-22T13:00:00Z"
 # date_end: "2024-10-10T13:00:00Z"
 # all_day: false
 
