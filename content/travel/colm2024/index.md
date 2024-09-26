@@ -1,5 +1,5 @@
 ---
-title: ✈️(Oct 2024) I'll be attending COLM 2024 from Oct 7-10, 2024. Welcome to check out our accepted works on InfoSumm and CultureGen. See you in Philadelphia!
+title: ✈️ (Oct 2024) I'll be attending COLM 2024 from Oct 7-10, 2024. Welcome to check out our accepted works on InfoSumm and CultureGen. See you in Philadelphia!
 
 # event: Wowchemy Conference
 # event_url: https://example.org

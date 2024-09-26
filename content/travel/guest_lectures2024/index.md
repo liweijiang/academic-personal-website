@@ -1,5 +1,5 @@
 ---
-title: 💡(Oct/Nov 2024) I'll be giving three guest lectures at UIUC, University of Pittsburgh and KAIST in Oct and Nov 2024!
+title: 💡 (Oct/Nov 2024) I'll be giving three guest lectures at UIUC, University of Pittsburgh and KAIST in Oct and Nov 2024!
 
 # event: Wowchemy Conference
 # event_url: https://example.org
