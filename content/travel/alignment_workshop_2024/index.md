@@ -1,5 +1,5 @@
 ---
-title: ✈️ (Oct 2024) I'll be attending the 2024 Bay Area Alignment Workshop at Santa Cruz from Oct 24-25, 2024!
+title: ✈️ (Oct 2024) I'll be attending the 2024 Bay Area Alignment Workshop at Santa Cruz 🎡 from Oct 24-25, 2024!
 
 # event: Wowchemy Conference
 # event_url: https://example.org
