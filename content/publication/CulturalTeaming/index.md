@@ -1,5 +1,5 @@
 ---
-title: "CulturalTeaming: AI-Assisted Interactive Red-Teaming for Challenging LLMs' (Lack of) Multicultural Knowledge"
+title: "CulturalBench: a Robust, Diverse and Challenging Benchmark on Measuring the (Lack of) Cultural Knowledge of LLMs"
 authors:
 - Yu Ying Chiu
 - admin
