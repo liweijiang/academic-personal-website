@@ -1,24 +1,17 @@
 ---
-title: "CulturalTeaming: AI-Assisted Interactive Red-Teaming for Challenging LLMs' (Lack of) Multicultural Knowledge"
+title: "Can Language Models Reason about Individualistic Human Values and Preferences?"
 authors:
-- Yu Ying Chiu
 - admin
-- Bill Yuchen Lin
-- Chan Young Park
-- Shuyue Stella Li
-- Sahithya Ravi
-- Mehar Bhatia
-- Maria Antoniak
-- Yulia Tsvetkov
-- Vered Shwartz
+- Taylor Sorensen
+- Sydney Levine
 - Yejin Choi
 author_notes:
 
-date: "2024-02-24T00:00:00Z"
+date: "2024-09-23T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2024-02-24T00:00:00Z"
+publishDate: "2024-09-23T00:00:00Z"
 
 
 # Publication type.
@@ -51,7 +44,7 @@ comments: false  # Show comments?
 
 links:
 # https://arxiv.org/abs/2104.06511
-url_pdf: "https://arxiv.org/abs/2410.02677"
+url_pdf: "https://arxiv.org/abs/2410.03868"
 # url_slides: pdf/ANION.pdf
 #- name: Press
 #  url: https://news.stanford.edu/2019/05/08/learning-chatbot-teaches-beats-flashcards/

@@ -1,16 +1,16 @@
 ---
-title: "CulturalTeaming: AI-Assisted Interactive Red-Teaming for Challenging LLMs' (Lack of) Multicultural Knowledge"
+title: "AI as Humanity's Salieri: Quantifying Linguistic Creativity of Language Models via Systematic Attribution of Machine Text against Web Text"
 authors:
-- Yu Ying Chiu
+- Ximing Lu
+- Melanie Sclar
+- Skyler Hallinan
+- Niloofar Mireshghallah
+- Jiacheng Liu
+- Seungju Han
+- Allyson Ettinger
 - admin
-- Bill Yuchen Lin
-- Chan Young Park
-- Shuyue Stella Li
-- Sahithya Ravi
-- Mehar Bhatia
-- Maria Antoniak
-- Yulia Tsvetkov
-- Vered Shwartz
+- Khyathi Chandu
+- Nouha Dziri
 - Yejin Choi
 author_notes:
 
@@ -51,7 +51,7 @@ comments: false  # Show comments?
 
 links:
 # https://arxiv.org/abs/2104.06511
-url_pdf: "https://arxiv.org/abs/2410.02677"
+url_pdf: "https://arxiv.org/abs/2410.04265"
 # url_slides: pdf/ANION.pdf
 #- name: Press
 #  url: https://news.stanford.edu/2019/05/08/learning-chatbot-teaches-beats-flashcards/
