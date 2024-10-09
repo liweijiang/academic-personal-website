@@ -102,8 +102,17 @@ My primary fields of study are **artificial intelligence (AI)** and **natural la
 
 My **long-term research goal** is threefold:
 (1) Computationally investigating meaningful & engaging phenomena in humans and society to add new insights to humanity.
+
 (2) Inventing and engineering better AI by bridging language, multimodal information, human cognitions, behaviors, philosophical insights, world knowledge, mathematical formulations, etc., through an interdisciplinary lens.
+
 (3) Advancing AI applications to boost positive social impact.
+
+
+My **current research focuses** include:
+
+(1) Pursuing AI that embraces the *diverse* need of *all* people.
+
+(2) The *robustness* of AI safety.
 
 
 <!-- > *I'm evermore thankful to people who have mentored me in the past and at present. Thus, for undergrads who are interested in my work and want to take a stab at research, feel free to reach out to me.* -->
