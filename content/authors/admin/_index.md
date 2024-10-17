@@ -108,7 +108,7 @@ My **long-term research goal** is threefold:
 
 (2) Computationally investigating meaningful & engaging phenomena in humans and society to add new insights to humanity.
  
-(3) Advancing AI applications to boost positive social impact while ensuring robust safety.
+(3) Advancing AI applications to enhance positive social impact while ensuring robust safety and accessibility for the global population.
 
 
 
