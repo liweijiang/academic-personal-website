@@ -1,5 +1,5 @@
 ---
-title: 💡 (Oct/Nov 2024) I'll be giving three guest lectures at UIUC, [University of Pittsburgh](pdf/Pitt_Lecture_Liwei.pdf), and KAIST in Oct and Nov 2024!
+title: 💡 (Oct/Nov 2024) I'll be giving three guest lectures at UIUC, University of Pittsburgh, and KAIST in Oct and Nov 2024!
 
 # event: Wowchemy Conference
 # event_url: https://example.org
@@ -35,6 +35,8 @@ image:
   # focal_point: Right
 
 links:
+- url: "pdf/Pitt_Lecture_Liwei.pdf"
+  name: University of Pittsburgh
 # - icon: twitter
 #   icon_pack: fab
 #   name: Follow
