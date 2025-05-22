@@ -16,7 +16,7 @@ authors:
 - Maarten Sap
 - Regina Rini
 - Yejin Choi
-<!-- author_notes: -->
+# <!-- author_notes: -->
 
 date: "2025-09-24T00:00:00Z"
 doi: ""
