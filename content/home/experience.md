@@ -30,6 +30,15 @@ experience:
     date_end: ''
     description:
 
+  - title: Research Intern
+    company: NVIDIA
+    company_url: ''
+    location: Seattle, Washington
+    date_start: '2025-03-03'
+    date_end: ''
+      # '2020-09-01'
+    description:
+    
   - title: Graduate Research Intern
     company: Allen Institute for Artificial Intelligence (AI2)
     company_url: ''
