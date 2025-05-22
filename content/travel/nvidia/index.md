@@ -1,5 +1,5 @@
 ---
-title: 💡 (March/May 2025) I'll be giving three guest lectures at CMU and UCLA on Red-Teaming and Safeguarding Language Models: Current Practices, Challenges, and Future Directions!
+title: Started internship at NVIDIA at the NeMo-Guardrails team working with Chris Parisien and Erick Galinkin!
 
 # event: Wowchemy Conference
 # event_url: https://example.org
@@ -15,14 +15,14 @@ title: 💡 (March/May 2025) I'll be giving three guest lectures at CMU and UCLA
 # summary: Feel free to reach out if you'd like to chat!
 # abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
 
-# Talk start and end times.g
+# Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2025-03-18T13:00:00Z"
+date: "2025-05-20T13:00:00Z"
 # date_end: "2024-10-10T13:00:00Z"
 # all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2025-03-18T00:00:00Z"
+publishDate: "2025-05-20T00:00:00Z"
 
 authors: []
 tags: []
@@ -34,9 +34,7 @@ image:
   # caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
   # focal_point: Right
 
-# links:
-# - url: "pdf/Pitt_Lecture_Liwei.pdf"
-  # name: University of Pittsburgh
+links:
 # - icon: twitter
 #   icon_pack: fab
 #   name: Follow
