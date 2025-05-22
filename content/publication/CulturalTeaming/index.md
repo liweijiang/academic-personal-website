@@ -14,11 +14,11 @@ authors:
 - Yejin Choi
 author_notes:
 
-date: "2024-02-24T00:00:00Z"
+date: "2025-05-24T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2024-02-24T00:00:00Z"
+publishDate: "2025-05-24T00:00:00Z"
 
 
 # Publication type.
@@ -30,7 +30,7 @@ publication_types: ["1"]
 # Publication name and optional abbreviated publication name.
 # publication: 2022 Annual Conference of the North American Chapter of the Association for Computational Linguistics
 # publication_short: NAACL-HLT
-publication: Preprint
+publication: ACL
 
 abstract: ""
 
@@ -40,7 +40,7 @@ summary:
 tags:
 - NLP
 - long paper
-- 2024
+- 2025
 
 featured: false
 reading_time: false  # Show estimated reading time?

@@ -30,7 +30,7 @@ publication_types: ["1"]
 # Publication name and optional abbreviated publication name.
 # publication: 2022 Annual Conference of the North American Chapter of the Association for Computational Linguistics
 # publication_short: NAACL-HLT
-publication: ICLR
+publication: ICLR (Oral)
 
 abstract: ""
 
