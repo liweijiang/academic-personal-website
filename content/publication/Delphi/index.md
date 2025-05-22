@@ -18,13 +18,13 @@ authors:
 - Yejin Choi
 # <!-- author_notes: -->
 
-date: "2025-09-24T00:00:00Z"
+date: "2025-04-24T00:00:00Z"
 doi: ""
 
 # Can Machines Learn Morality? The Delphi Experiment
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2025-09-24T00:00:00Z"
+publishDate: "2025-05-24T00:00:00Z"
 
 
 # Publication type.
