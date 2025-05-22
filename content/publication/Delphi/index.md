@@ -18,13 +18,13 @@ authors:
 - Yejin Choi
 <!-- author_notes: -->
 
-date: "2024-09-24T00:00:00Z"
+date: "2025-09-24T00:00:00Z"
 doi: ""
 
 # Can Machines Learn Morality? The Delphi Experiment
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2024-09-24T00:00:00Z"
+publishDate: "2025-09-24T00:00:00Z"
 
 
 # Publication type.
@@ -34,7 +34,7 @@ publishDate: "2024-09-24T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: Nature Machine Intelligence (Accept in Principle)
+publication: Nature Machine Intelligence
 # publication_short: NAACL-HLT
 
 abstract: "As AI systems become increasingly powerful and pervasive, there are growing concerns about machines' morality or a lack thereof. Yet, teaching morality to machines is a formidable task, as morality remains among the most intensely debated questions in humanity, let alone for AI. Existing AI systems deployed to millions of users, however, are already making decisions loaded with moral implications, which poses a seemingly impossible challenge: teaching machines moral sense, while humanity continues to grapple with it.
@@ -47,7 +47,7 @@ summary:
 tags:
 - NLP
 - long paper
-- 2024
+- 2025
 
 featured: false
 reading_time: false  # Show estimated reading time?
