@@ -1,5 +1,5 @@
 ---
-title: "CulturalBench: a Robust, Diverse and Challenging Benchmark on Measuring the (Lack of) Cultural Knowledge of LLMs"
+title: "CulturalBench: Building a Robust, Diverse, and Challenging Cultural Benchmark by Human-AI CulturalTeaming"
 authors:
 - Yu Ying Chiu
 - admin

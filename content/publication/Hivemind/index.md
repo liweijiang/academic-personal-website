@@ -1,22 +1,27 @@
 ---
-title: "Chasing Moving Targets with Online Self-Play Reinforcement Learning for Safer Language Models"
+title: "Artificial Hivemind: The Open-Ended Homogeneity of Language Models (and Beyond)"
 authors:
 - admin
+- Yuanjun Chai
+- Margaret Li
 - Mickel Liu
-- Yancheng Liang
-- Simon S. Du
+- Raymond Fok
+- Maarten Sap
+- Yulia Tsvetkov
+- Nouha Dziri
+- Alon Albalak
 - Yejin Choi
-- Tim Althoff
-- Natasha Jaques
 
-author_notes:
-- "Equal Contribution"
-- "Equal Contribution"
-- ""
-- ""
-- ""
-- "Co-Advisor"
-- "Co-Advisor"
+# author_notes:
+# - ""
+# - "Equal Contribution"
+# - "Equal Contribution"
+# - "Equal Contribution"
+# - "Equal Contribution"
+# - "Equal Contribution"
+# - "Equal Contribution"
+# - "Equal Contribution"
+# - ""
 
 date: "2025-05-21T00:00:00Z"
 doi: ""
@@ -54,7 +59,7 @@ comments: false  # Show comments?
 
 links:
 # https://arxiv.org/abs/2104.06511
-# url_pdf: "https://arxiv.org/abs/2110.07178"
+url_pdf: "https://arxiv.org/abs/2110.07178"
 # url_slides: pdf/ANION.pdf
 #- name: Press
 #  url: https://news.stanford.edu/2019/05/08/learning-chatbot-teaches-beats-flashcards/
