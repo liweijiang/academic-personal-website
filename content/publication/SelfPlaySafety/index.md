@@ -1,8 +1,8 @@
 ---
 title: "Chasing Moving Targets with Online Self-Play Reinforcement Learning for Safer Language Models"
 authors:
+- admin
 - Mickel Liu
-- Liwei Jiang
 - Yancheng Liang
 - Simon S. Du
 - Yejin Choi
