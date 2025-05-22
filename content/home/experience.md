@@ -33,7 +33,7 @@ experience:
   - title: Research Intern
     company: NVIDIA
     company_url: ''
-    location: Seattle, Washington
+    location: Santa Clara, California
     date_start: '2025-03-03'
     date_end: ''
       # '2020-09-01'
@@ -44,8 +44,7 @@ experience:
     company_url: ''
     location: Seattle, Washington
     date_start: '2020-06-01'
-    date_end: ''
-      # '2020-09-01'
+    date_end: '2024-12-15'
     description:
 
   - title: Undergraduate Research Intern
