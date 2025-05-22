@@ -21,7 +21,7 @@ interests:
 - Artificial Intelligence
 - Natural Language Processing
 - Machine Learning
-- Human-computer Interaction
+- Human-AI Interaction
 
 # Education to show in About widget
 education:
