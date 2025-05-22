@@ -1,17 +1,35 @@
 ---
-title: "DailyDilemmas: Revealing Value Preferences of LLMs with Quandaries of Daily Life"
+title: "X-Teaming: Multi-Turn Jailbreaks and Defenses with Adaptive Multi-Agents"
 authors:
-- Yu Ying Chiu
 - admin
+- Salman Rahman
+- James Shiffer
+- Genglin Liu
+- Sheriff Issaka
+- Md Rizwan Parvez
+- Hamid Palangi
+- Kai-Wei Chang
 - Yejin Choi
-author_notes:
-- 
+- Saadia Gabriel
 
-date: "2025-05-20T00:00:00Z"
+author_notes:
+- "Equal Contribution"
+- "Equal Contribution"
+- "Equal Contribution"
+- ""
+- ""
+- ""
+- ""
+- ""
+- ""
+- ""
+
+
+date: "2025-05-21T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2025-05-20T00:00:00Z"
+publishDate: "2025-05-21T00:00:00Z"
 
 
 # Publication type.
@@ -21,9 +39,8 @@ publishDate: "2025-05-20T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-# publication: 2022 Annual Conference of the North American Chapter of the Association for Computational Linguistics
-# publication_short: NAACL-HLT
-publication: ICLR (Spotlight)
+publication: In submission
+publication_short: In submission
 
 abstract: ""
 
@@ -44,7 +61,7 @@ comments: false  # Show comments?
 
 links:
 # https://arxiv.org/abs/2104.06511
-url_pdf: "https://arxiv.org/abs/2410.02683"
+url_pdf: "https://arxiv.org/abs/2110.07178"
 # url_slides: pdf/ANION.pdf
 #- name: Press
 #  url: https://news.stanford.edu/2019/05/08/learning-chatbot-teaches-beats-flashcards/
