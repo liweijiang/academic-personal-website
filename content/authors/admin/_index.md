@@ -74,7 +74,6 @@ highlight_name: true
 I am a Ph.D. candidate at [Paul G. Allen School of Computer Science & Engineering, University of Washington](https://www.cs.washington.edu), advised by Professor [Yejin Choi](https://homes.cs.washington.edu/~yejin/). I am also a graduate research intern at [NVIDIA](https://www.nvidia.com). I was a student researcher at [Allen Institute for Artificial Intelligence (Ai2)](https://allenai.org). I earned B.A. in Computer Science and B.A. in Mathematics from [Colby College](http://www.colby.edu).
 
 
-
  <!-- During my undergraduate studies, I worked on [Smart Primer](https://hci.stanford.edu/research/smartprimer/) at [Stanford University HCI group](https://hci.stanford.edu). -->
 
 My research centers on **humanistic AI safety**, aiming to foster the synergistic, secure, and sustainable coexistence of AI and society---ultimately shaping the **co-evolution of AI and humanity**:
@@ -82,6 +81,12 @@ My research centers on **humanistic AI safety**, aiming to foster the synergisti
 **From Human to AI:** Developing human-centered, continually-evolving, and future-proof AI systems---drawing upon interdisciplinary insights into human intelligence, values, and global needs.
 
 **From AI to Human:** Advancing the frontiers of knowledge about individuals and society, augmenting human capabilities, and addressing humanity's most consequential sociotechnical challenges---through robust, efficient, and scalable innovations in data, learning algorithms, and system design.
+
+
+My **current** research encompasses topics such as pluralistic alignment, self-improving algorithms for steerable and secure language models, anticipatory strategies for long-term risks---including overreliance and the erosion of human creativity---and socially impactful applications, such as clinical AI.
+
+
+
 
 <!-- I do research in **artificial intelligence (AI)** and **natural language processing (NLP)**. I'm intrigued to make wild imaginations come true by building AI + orchestrating mathematical and philosophical rigor to tackle real-world needs + understanding the charms, mysteries, and peculiarities of humans. I aspire to achieve a **co-evolution of AI and humanity**: developing AI systems with deep concerns for human *traits*, *values*, and *needs*, while gleaning novel insights into *humans*, *society*, and *humanity* through advancing AI. -->
 
